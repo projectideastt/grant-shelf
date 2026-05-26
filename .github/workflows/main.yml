@@ -1,0 +1,31 @@
+name: Update Grant Shelf Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 10 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-grants:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run Grants.gov collector
+        run: python collectors/fetch_grantsgov.py
+
+      - name: Commit updated grants.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update Grant Shelf grant data"
+          file_pattern: grants.json
