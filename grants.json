@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "generated_at": null,
+    "source": "not_collected_yet",
+    "note": "Run collectors/fetch_grantsgov.py or the GitHub Action to populate this file with real public grant records.",
+    "exchange_rates": {
+      "USD": 6.8,
+      "EUR": 9.0,
+      "GBP": 8.6,
+      "CAD": 5.0
+    }
+  },
+  "records": []
+}

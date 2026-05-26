@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Grant Shelf MVP</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div class="hero-content">
+        <p class="eyebrow">Grant Shelf</p>
+        <h1>Funding Intelligence for Caribbean Impact</h1>
+
+        <p class="hero-text">
+          Discover public funding opportunities with local currency estimates,
+          risk cues, readiness signals and safer next steps for Caribbean applicants.
+        </p>
+
+        <div class="search-wrapper">
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Search climate, youth, mental health, digital, education, culture..."
+          />
+        </div>
+
+        <div class="tag-row" id="tagRow">
+          <button class="tag active" data-filter="all">All</button>
+          <button class="tag" data-filter="climate">Climate</button>
+          <button class="tag" data-filter="youth">Youth</button>
+          <button class="tag" data-filter="digital">Digital</button>
+          <button class="tag" data-filter="health">Health</button>
+          <button class="tag" data-filter="education">Education</button>
+          <button class="tag" data-filter="culture">Culture</button>
+          <button class="tag" data-filter="starter">Starter Friendly</button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="trust-strip">
+        <div>
+          <strong>Exchange Rate Used:</strong>
+          <span id="exchangeRateLabel">Loading...</span>
+        </div>
+        <div>
+          TTD values are estimates. Always verify final amounts, bank rates and funder terms.
+        </div>
+      </section>
+
+      <section class="status-panel" id="statusPanel">
+        <div class="status-dot loading" id="statusDot"></div>
+        <div>
+          <h3 id="statusTitle">Loading Grant Shelf data...</h3>
+          <p id="statusMessage">Reading grants.json from this GitHub site.</p>
+          <details class="status-details">
+            <summary>Technical details</summary>
+            <pre id="statusDetails">Starting...</pre>
+          </details>
+        </div>
+      </section>
+
+      <section class="results-section">
+        <div class="section-heading">
+          <h2>Recommended Opportunities</h2>
+          <p>
+            This MVP reads from <code>grants.json</code>, which is updated by a GitHub Action collector.
+          </p>
+        </div>
+
+        <div id="grantContainer" class="grant-grid"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
