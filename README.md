@@ -1,61 +1,57 @@
-# Grant Shelf MVP
+# Grant Shelf
 
-Grant Shelf is a GitHub-first prototype for tracking real public grant opportunities and presenting them as Caribbean-aware decision cards.
+Grant Shelf is a static GitHub Pages-ready prototype for funding intelligence relevant to Trinidad and Tobago and the wider Caribbean.
 
-## What this package includes
+## Why this rebuild is safer
 
-- `index.html` — frontend page
-- `style.css` — responsive civic-tech styling
-- `script.js` — reads `grants.json` and renders cards
-- `grants.json` — frontend data file, initially empty until the collector runs
-- `collectors/fetch_grantsgov.py` — server-side Python collector for Grants.gov
-- `.github/workflows/update-grants.yml` — scheduled GitHub Action
-- `data/source_plan.md` — source and thematic pull plan
+This version is deliberately simple and robust:
 
-## How it works
+- `index.html` contains the full webpage, styling, and browser behaviour.
+- `grants.json` stores the records shown on the page.
+- The page does **not** call Grants.gov directly from the browser.
+- The optional GitHub Action runs a Python collector and updates `grants.json`.
+- The page should still load even if the collector fails.
 
-```text
-GitHub Action
-→ runs collectors/fetch_grantsgov.py
-→ queries Grants.gov search2 by theme
-→ writes grants.json
-→ frontend reads grants.json
-```
-
-## Thematic areas pulled
-
-- Climate / Environment / Resilience
-- Youth / Education / Skills
-- Digital / Data / Civic Technology
-- Health / Mental Health / Community Support
-- Culture / Archives / Heritage
-- Caribbean / SIDS / Islands
-
-## Important caution
-
-The collector pulls real public records from Grants.gov, but not every record will be eligible for Trinidad & Tobago or Caribbean applicants. The frontend labels each live record as requiring verification.
-
-## How to run locally
-
-```bash
-python collectors/fetch_grantsgov.py
-python -m http.server 8000
-```
-
-Then open:
+## Files
 
 ```text
-http://localhost:8000
+index.html
+grants.json
+.nojekyll
+verify.html
+README.md
+DEPLOYMENT.md
+collectors/fetch_grantsgov.py
+.github/workflows/update-grants.yml
 ```
 
-## How to use on GitHub
+## Publish on GitHub Pages
 
-1. Create a new GitHub repository.
-2. Upload these files.
-3. Go to the Actions tab.
-4. Run **Update Grant Shelf Data** manually once.
-5. Enable GitHub Pages or connect the repository to Cloudflare Pages.
+1. Upload all files to the repository root.
+2. Go to **Settings → Pages**.
+3. Choose **Deploy from a branch**.
+4. Branch: `main`.
+5. Folder: `/ root`.
+6. Save.
+7. Visit `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/`.
 
-## Why not pull APIs directly from the browser?
+## Quick test
 
-Browser JavaScript is often blocked by CORS or API restrictions. GitHub Actions runs server-side and writes a clean `grants.json` file that the frontend can safely read.
+After publishing, also test:
+
+```text
+https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/verify.html
+```
+
+If `verify.html` loads but `index.html` does not, the issue is in `index.html`.
+If neither loads, the issue is Pages settings or repository placement.
+
+## Update grants
+
+Go to **Actions → Update Grant Shelf Data → Run workflow**.
+
+If it fails, the website should still load from the existing `grants.json`.
+
+## Data caution
+
+All live records should be verified on the official funder website before action. TTD conversions are estimates only.

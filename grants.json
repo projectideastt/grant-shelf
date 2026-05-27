@@ -1,14 +1,44 @@
-{
-  "meta": {
-    "generated_at": null,
-    "source": "not_collected_yet",
-    "note": "Run collectors/fetch_grantsgov.py or the GitHub Action to populate this file with real public grant records.",
-    "exchange_rates": {
-      "USD": 6.8,
-      "EUR": 9.0,
-      "GBP": 8.6,
-      "CAD": 5.0
-    }
+[
+  {
+    "id": "demo-001",
+    "title": "Sample Climate Resilience Grant",
+    "organization": "Demo Funder",
+    "category": "climate",
+    "match": 82,
+    "deadline": "Demo record",
+    "currency": "USD",
+    "minFunding": 25000,
+    "maxFunding": 100000,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 70,
+    "status": "Demo Data",
+    "sourceUrl": "#",
+    "badges": ["Demo Data", "Verify Source", "Climate"],
+    "requirements": ["Confirm eligibility", "Prepare concept note", "Prepare budget", "Check official source"],
+    "why": "Demonstrates how Grant Shelf will present a climate-related opportunity once real data is collected.",
+    "caution": "This is demo data only. Use the GitHub Action collector to replace this file with live records.",
+    "nextStep": "View Demo"
   },
-  "records": []
-}
+  {
+    "id": "demo-002",
+    "title": "Sample Youth Community Project Fund",
+    "organization": "Demo Funder",
+    "category": "youth",
+    "match": 78,
+    "deadline": "Demo record",
+    "currency": "USD",
+    "minFunding": 10000,
+    "maxFunding": 50000,
+    "risk": "Low",
+    "effort": "Medium",
+    "readiness": 76,
+    "status": "Demo Data",
+    "sourceUrl": "#",
+    "badges": ["Demo Data", "Starter Friendly", "Youth"],
+    "requirements": ["Community project idea", "Basic budget", "Implementation plan", "Reporting plan"],
+    "why": "Demonstrates the starter-friendly view for smaller community or youth projects.",
+    "caution": "This is demo data only. Always verify real opportunities on official funder pages.",
+    "nextStep": "View Demo"
+  }
+]
