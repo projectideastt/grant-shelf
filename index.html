@@ -3,123 +3,138 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Grant Shelf</title>
+  <title>Grant Shelf Caribbean</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="page-shell">
+  <div class="site-shell">
     <header class="hero">
-      <nav class="topbar">
+      <nav class="nav">
         <div class="brand">
-          <span class="brand-mark">GS</span>
-          <span>Grant Shelf</span>
-        </div>
-        <a class="repo-link" href="#opportunities">Browse opportunities</a>
-      </nav>
-
-      <section class="hero-grid">
-        <div>
-          <p class="eyebrow">Funding intelligence for Caribbean impact</p>
-          <h1>Find grants worth your time.</h1>
-          <p class="hero-copy">
-            Search live and reviewed opportunities using Caribbean-aware fit, risk, effort,
-            readiness, TTD estimates, and caution notes.
-          </p>
-        </div>
-
-        <div class="hero-card">
-          <h2>Built for careful decision-making</h2>
-          <p>
-            Grant Shelf does not just list funding. It helps you decide whether an
-            opportunity is relevant, realistic, and safe to pursue.
-          </p>
-          <div class="hero-tags">
-            <span>TTD estimates</span>
-            <span>Risk cues</span>
-            <span>Source checks</span>
-            <span>Partner prompts</span>
+          <span class="brand-icon">GS</span>
+          <div>
+            <strong>Grant Shelf Caribbean</strong>
+            <small>Funding guide for Caribbean ideas</small>
           </div>
         </div>
+
+        <a href="#opportunities" class="nav-link">Browse opportunities</a>
+      </nav>
+
+      <section class="hero-content">
+        <div class="hero-main">
+          <p class="eyebrow">Beginner-friendly funding guidance</p>
+          <h1>Find grants without needing to understand grant jargon.</h1>
+          <p class="hero-copy">
+            Search opportunities through plain English, Caribbean fit, beginner friendliness,
+            safe next steps, red flags, and approximate TTD values.
+          </p>
+
+          <div class="idea-search">
+            <label for="searchInput">What are you trying to fund?</label>
+            <div class="search-row">
+              <input
+                id="searchInput"
+                type="search"
+                placeholder="Example: youth climate project, school garden, mental health support, digital archive..."
+              />
+              <button id="reloadBtn" type="button">Reload</button>
+            </div>
+          </div>
+        </div>
+
+        <aside class="starter-guide">
+          <h2>New to grants?</h2>
+          <ol>
+            <li>Search your idea in plain English.</li>
+            <li>Look for <strong>Worth checking: Yes</strong>.</li>
+            <li>Check who can apply.</li>
+            <li>Review what you may need.</li>
+            <li>Open the official source before acting.</li>
+          </ol>
+        </aside>
       </section>
     </header>
 
     <main>
-      <section class="control-panel" aria-label="Search and filters">
-        <div class="search-row">
-          <label for="searchInput" class="sr-only">Search opportunities</label>
-          <input
-            id="searchInput"
-            type="search"
-            placeholder="Search by theme, funder, country, project idea, or keyword..."
-          />
-          <button id="reloadBtn" class="secondary-btn" type="button">Reload data</button>
-        </div>
-
-        <div class="filter-row" id="filterRow">
-          <button class="chip active" data-filter="all" type="button">All</button>
-          <button class="chip" data-filter="climate" type="button">Climate</button>
-          <button class="chip" data-filter="youth" type="button">Youth</button>
-          <button class="chip" data-filter="digital" type="button">Digital</button>
-          <button class="chip" data-filter="health" type="button">Health</button>
-          <button class="chip" data-filter="culture" type="button">Culture</button>
-          <button class="chip" data-filter="starter" type="button">Starter Friendly</button>
-          <button class="chip" data-filter="caribbean" type="button">Caribbean / SIDS</button>
-        </div>
-
-        <div class="sort-row">
-          <label for="sortSelect">Sort by</label>
-          <select id="sortSelect">
-            <option value="match">Best match</option>
-            <option value="deadline">Deadline</option>
-            <option value="readiness">Readiness</option>
-            <option value="risk">Lowest risk</option>
-            <option value="title">Title</option>
-          </select>
-        </div>
+      <section class="quick-actions" aria-label="Quick grant filters">
+        <button class="quick-chip active" data-filter="all" type="button">All</button>
+        <button class="quick-chip" data-filter="starter" type="button">Beginner friendly</button>
+        <button class="quick-chip" data-filter="caribbean" type="button">Caribbean / SIDS</button>
+        <button class="quick-chip" data-filter="climate" type="button">Climate</button>
+        <button class="quick-chip" data-filter="youth" type="button">Youth</button>
+        <button class="quick-chip" data-filter="health" type="button">Health</button>
+        <button class="quick-chip" data-filter="digital" type="button">Digital</button>
+        <button class="quick-chip" data-filter="culture" type="button">Culture</button>
+        <button class="quick-chip" data-filter="needs-review" type="button">Needs review</button>
       </section>
 
-      <section class="notice-grid">
-        <article class="notice-card">
-          <strong>Exchange rate used</strong>
-          <span>USD 1 ≈ TTD 6.80 / EUR 1 ≈ TTD 9.00</span>
+      <section class="decision-strip">
+        <article>
+          <strong>Money shown in TTD</strong>
+          <span>USD and EUR values are converted approximately for local decision-making.</span>
         </article>
-        <article class="notice-card">
-          <strong>Always verify</strong>
-          <span>Amounts, bank rates, eligibility, deadlines, and funder terms may change.</span>
+        <article>
+          <strong>Safe-first design</strong>
+          <span>Buttons guide users to check eligibility, requirements, and source links before applying.</span>
+        </article>
+        <article>
+          <strong>Caribbean lens</strong>
+          <span>Records are ranked by Caribbean relevance, beginner friendliness, risk, and readiness.</span>
         </article>
       </section>
 
       <section class="status-card" id="statusCard">
-        <div class="status-line">
-          <span class="status-dot warning" id="statusDot"></span>
+        <div class="status-main">
+          <span id="statusDot" class="status-dot warning"></span>
           <div>
             <h2 id="statusTitle">Loading grant data...</h2>
             <p id="statusMessage">Checking grants.json from this repository.</p>
           </div>
         </div>
+
         <details>
           <summary>Technical details</summary>
           <pre id="statusDetails">Starting...</pre>
         </details>
       </section>
 
-      <section class="stats-grid" id="statsGrid" aria-label="Grant Shelf summary statistics">
+      <section class="dashboard-grid">
         <article>
           <span id="totalCount">0</span>
-          <p>records loaded</p>
+          <p>Total records</p>
         </article>
         <article>
           <span id="visibleCount">0</span>
-          <p>shown after filters</p>
+          <p>Shown now</p>
         </article>
         <article>
-          <span id="liveCount">0</span>
-          <p>live-source records</p>
+          <span id="starterCount">0</span>
+          <p>Beginner friendly</p>
         </article>
         <article>
-          <span id="demoCount">0</span>
-          <p>demo records</p>
+          <span id="caribbeanCount">0</span>
+          <p>Caribbean-likely</p>
         </article>
+      </section>
+
+      <section class="tools-row">
+        <div>
+          <label for="sortSelect">Sort by</label>
+          <select id="sortSelect">
+            <option value="caribbean">Caribbean relevance</option>
+            <option value="beginner">Beginner friendliness</option>
+            <option value="worth">Worth checking</option>
+            <option value="deadline">Deadline</option>
+            <option value="risk">Lowest risk</option>
+            <option value="title">Title</option>
+          </select>
+        </div>
+
+        <label class="toggle-row">
+          <input type="checkbox" id="hideLowFitToggle" />
+          Hide probably-not opportunities
+        </label>
       </section>
 
       <section class="section-heading" id="opportunities">
@@ -128,11 +143,12 @@
           <h2>Review before you apply</h2>
         </div>
         <p>
-          Use the cards as decision support. Open the official source before taking action.
+          Each card is written for people who may not know grant terminology.
+          Treat this as guidance, not official eligibility confirmation.
         </p>
       </section>
 
-      <section id="grantContainer" class="opportunity-grid" aria-live="polite"></section>
+      <section id="grantContainer" class="grant-grid" aria-live="polite"></section>
     </main>
   </div>
 
