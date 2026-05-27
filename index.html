@@ -1,29 +1,141 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Grant Shelf</title>
-  <meta name="description" content="Grant Shelf: funding intelligence for Caribbean impact." />
-  <style>
-    :root{--navy:#102542;--teal:#1e8c93;--sand:#f4f1ea;--green:#5da271;--gold:#d9a441;--red:#a33a3a;--ink:#071b2f;--muted:#5c6b73;--card:#fff;--soft:#f8fafb;--chip:#eef3f5;--line:#e4ecef;--shadow:0 10px 25px rgba(0,0,0,.08);--radius:24px}*{box-sizing:border-box;margin:0;padding:0}body{font-family:Arial,Helvetica,sans-serif;background:var(--sand);color:var(--ink);line-height:1.5}.hero{padding:4rem 1.5rem 3rem;color:white;background:radial-gradient(circle at top right,rgba(255,255,255,.16),transparent 35%),linear-gradient(135deg,var(--navy),var(--teal))}.hero-inner,main{max-width:1200px;margin:auto}.eyebrow{text-transform:uppercase;letter-spacing:2px;font-weight:700;font-size:.8rem;opacity:.85;margin-bottom:1rem}h1{font-size:clamp(2rem,5vw,4.25rem);line-height:1.05;max-width:900px;margin-bottom:1rem}.hero-text{max-width:780px;font-size:1.08rem;opacity:.95;margin-bottom:2rem}.search-wrapper{max-width:900px;margin-bottom:1.25rem}#searchInput{width:100%;border:0;border-radius:16px;padding:1rem 1.15rem;font-size:1rem;outline:none;box-shadow:0 6px 18px rgba(0,0,0,.1)}.tag-row{display:flex;flex-wrap:wrap;gap:.7rem}.tag{border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.14);color:#fff;border-radius:999px;padding:.68rem 1rem;cursor:pointer;transition:.2s;font-weight:700}.tag:hover,.tag.active{background:#fff;color:var(--navy)}main{padding:0 1.5rem 4rem}.trust-strip,.status-panel{background:var(--card);border-radius:18px;box-shadow:var(--shadow)}.trust-strip{margin-top:-1.4rem;padding:1rem 1.25rem;display:flex;justify-content:space-between;gap:1rem;position:relative;z-index:2}.status-panel{margin-top:1rem;padding:1rem 1.25rem;display:grid;grid-template-columns:auto 1fr auto;gap:1rem;align-items:start}.status-dot{width:16px;height:16px;border-radius:50%;margin-top:.25rem;background:var(--gold)}.status-dot.success{background:var(--green)}.status-dot.warning{background:var(--gold)}.status-dot.error{background:var(--red)}.status-panel h2{font-size:1.05rem;margin-bottom:.25rem}.status-panel p{color:var(--muted);font-size:.95rem}.status-details{margin-top:.75rem}.status-details summary{cursor:pointer;color:var(--teal);font-weight:700}.status-details pre{margin-top:.65rem;background:var(--soft);padding:.85rem;border-radius:12px;white-space:pre-wrap;font-size:.82rem;overflow:auto}.small-btn{border:0;border-radius:12px;padding:.75rem .9rem;background:var(--chip);color:var(--navy);font-weight:700;cursor:pointer;white-space:nowrap}.section-heading{margin:2rem 0 1.25rem}.section-heading h2{font-size:2rem;margin-bottom:.35rem}.section-heading p{color:var(--muted);max-width:760px}.grant-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:1.4rem}.grant-card{background:var(--card);border-radius:var(--radius);padding:1.45rem;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:1rem;min-height:100%}.card-top{display:flex;justify-content:space-between;gap:1rem;align-items:start}.org-name{color:var(--teal);font-size:.85rem;letter-spacing:1px;text-transform:uppercase;font-weight:800}.grant-card h3{font-size:1.35rem;margin-top:.15rem;line-height:1.2}.match-score{background:var(--green);color:#fff;border-radius:999px;padding:.5rem .8rem;white-space:nowrap;font-weight:800}.badge-row,.meta{display:flex;flex-wrap:wrap;gap:.55rem}.badge,.meta span{background:var(--chip);border-radius:999px;padding:.42rem .72rem;font-size:.85rem}.badge.live{background:#e7f4ec;color:#23613d;font-weight:700}.badge.demo{background:#fff4d7;color:#8a6200;font-weight:700}.deadline{color:#8a6200;font-weight:800}.currency-box,.info-box{background:var(--soft);border:1px solid var(--line);border-radius:16px;padding:.95rem}.local-value{font-size:1.14rem;font-weight:900;margin:.2rem 0}.risk-panel{display:grid;grid-template-columns:repeat(3,1fr);gap:.65rem}.risk-item{background:var(--soft);border-radius:14px;padding:.75rem}.risk-label{color:var(--muted);text-transform:uppercase;letter-spacing:.5px;font-size:.72rem;margin-bottom:.15rem}.risk-value{font-weight:900}.low{color:#2f7d4f}.medium{color:#8a6200}.high{color:#a33a3a}.why-box{border-left:4px solid var(--teal)}.caution-box{border-left:4px solid var(--gold)}.requirements-box{border-left:4px solid var(--navy)}.info-box ul{padding-left:1.2rem;margin-top:.4rem}.button-row{margin-top:auto;display:flex;flex-wrap:wrap;gap:.7rem}.apply-btn,.share-btn{border:0;border-radius:14px;padding:.9rem 1rem;min-width:140px;flex:1;cursor:pointer;font-weight:800}.apply-btn{background:var(--navy);color:#fff}.apply-btn:hover{background:var(--teal)}.share-btn{background:var(--chip);color:var(--navy)}.share-btn:hover{background:#dbe8eb}.empty-card{grid-column:1/-1}@media(max-width:760px){main{padding-left:1rem;padding-right:1rem}.hero{padding:3rem 1rem 2.5rem}.trust-strip,.status-panel{grid-template-columns:1fr;flex-direction:column}.risk-panel{grid-template-columns:1fr}.card-top{flex-direction:column}}@media(max-width:420px){.grant-grid{grid-template-columns:1fr}.grant-card{border-radius:18px}}
-  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header class="hero"><div class="hero-inner"><p class="eyebrow">Grant Shelf</p><h1>Funding Intelligence for Caribbean Impact</h1><p class="hero-text">Discover grants, fellowships and development opportunities relevant to Trinidad & Tobago and the Caribbean, with TTD estimates, risk cues, and safer next steps.</p><div class="search-wrapper"><input id="searchInput" type="search" placeholder="Describe your project idea... e.g. youth climate storytelling" /></div><div class="tag-row" aria-label="Grant filters"><button class="tag active" data-filter="all">All</button><button class="tag" data-filter="climate">Climate</button><button class="tag" data-filter="youth">Youth</button><button class="tag" data-filter="digital">Digital</button><button class="tag" data-filter="health">Health</button><button class="tag" data-filter="culture">Culture</button><button class="tag" data-filter="starter">Starter Friendly</button></div></div></header>
-  <main><section class="trust-strip"><div><strong>Exchange Rate Used:</strong> USD 1 ≈ TTD 6.80 / EUR 1 ≈ TTD 9.00</div><div>TTD values are estimates. Always verify final amounts, bank rates, eligibility, and funder terms.</div></section><section class="status-panel" aria-live="polite"><div id="statusDot" class="status-dot warning"></div><div><h2 id="statusTitle">Loading Grant Shelf...</h2><p id="statusMessage">Checking local grants.json. This page is designed to load even if the collector has not run yet.</p><details class="status-details"><summary>Technical details</summary><pre id="statusDetails">Starting page load...</pre></details></div><button class="small-btn" id="reloadDataBtn" type="button">Reload data</button></section><section class="section-heading"><h2>Recommended Opportunities</h2><p>Search and filter opportunities using Caribbean-aware fit, risk, effort, readiness, TTD estimates, and caution notes.</p></section><section id="grantContainer" class="grant-grid"></section></main>
-  <script>
-    const exchangeRates={USD:6.8,EUR:9.0,GBP:8.65,CAD:5.0};
-    const fallbackGrants=[{id:"fallback-001",title:"Sample Climate Resilience Grant",organization:"Demo Funder",category:"climate",match:82,deadline:"Demo record",currency:"USD",minFunding:25000,maxFunding:100000,risk:"Medium",effort:"Medium",readiness:70,status:"Demo Data",sourceUrl:"#",badges:["Demo Data","Verify Source","Climate"],requirements:["Confirm eligibility","Prepare concept note","Prepare budget","Check official source"],why:"Demonstrates how Grant Shelf presents a climate-related opportunity once real data is collected.",caution:"This is fallback demo data. Use the GitHub Action collector to replace grants.json with live records.",nextStep:"View Demo"},{id:"fallback-002",title:"Sample Youth Community Project Fund",organization:"Demo Funder",category:"youth",match:78,deadline:"Demo record",currency:"USD",minFunding:10000,maxFunding:50000,risk:"Low",effort:"Medium",readiness:76,status:"Demo Data",sourceUrl:"#",badges:["Demo Data","Starter Friendly","Youth"],requirements:["Community project idea","Basic budget","Implementation plan","Reporting plan"],why:"Demonstrates the starter-friendly view for smaller community or youth projects.",caution:"This is fallback demo data. Always verify real opportunities on official funder pages.",nextStep:"View Demo"}];
-    let grants=[],activeFilter="all";const grantContainer=document.getElementById("grantContainer"),searchInput=document.getElementById("searchInput"),tags=document.querySelectorAll(".tag"),statusDot=document.getElementById("statusDot"),statusTitle=document.getElementById("statusTitle"),statusMessage=document.getElementById("statusMessage"),statusDetails=document.getElementById("statusDetails"),reloadDataBtn=document.getElementById("reloadDataBtn");
-    function updateStatus(type,title,message,details){statusDot.className="status-dot "+type;statusTitle.textContent=title;statusMessage.textContent=message;statusDetails.textContent=details||"No technical details available."}
-    function inferCategory(text){text=String(text||"").toLowerCase();if(text.includes("climate")||text.includes("environment")||text.includes("resilience")||text.includes("conservation"))return"climate";if(text.includes("youth")||text.includes("education")||text.includes("training"))return"youth";if(text.includes("health")||text.includes("mental")||text.includes("wellbeing"))return"health";if(text.includes("culture")||text.includes("heritage")||text.includes("archive")||text.includes("museum"))return"culture";if(text.includes("digital")||text.includes("technology")||text.includes("data")||text.includes("innovation"))return"digital";return"digital"}
-    function normalizeGrant(grant,index){const safe={id:grant.id||"grant-"+index,title:grant.title||"Untitled opportunity",organization:grant.organization||grant.agency||"Unknown funder",category:grant.category||inferCategory([grant.title,grant.organization,grant.why].join(" ")),match:Number(grant.match||55),deadline:grant.deadline||"Check source",currency:grant.currency||"USD",minFunding:Number(grant.minFunding||0),maxFunding:Number(grant.maxFunding||0),risk:grant.risk||"Medium",effort:grant.effort||"Medium",readiness:Number(grant.readiness||50),status:grant.status||"Needs Review",sourceUrl:grant.sourceUrl||"#",badges:Array.isArray(grant.badges)?grant.badges:["Verify Source"],requirements:Array.isArray(grant.requirements)?grant.requirements:["Review official source","Confirm eligibility"],why:grant.why||"Relevance needs review.",caution:grant.caution||"Verify all details on the official funder source before acting.",nextStep:grant.nextStep||"Open Source"};safe.match=Math.max(0,Math.min(100,safe.match));safe.readiness=Math.max(0,Math.min(100,safe.readiness));return safe}
-    async function loadData(){updateStatus("warning","Loading local grants.json...","The webpage is loading data from the repository file grants.json.","Attempting fetch('./grants.json?cache=' + Date.now()).");try{const response=await fetch("./grants.json?cache="+Date.now(),{cache:"no-store"});if(!response.ok)throw new Error("Could not load grants.json. HTTP "+response.status);const data=await response.json();if(!Array.isArray(data))throw new Error("grants.json loaded, but it is not an array.");grants=data.map(normalizeGrant);const hasLive=grants.some(g=>String(g.status).toLowerCase().includes("live"));const hasOnlyDemo=grants.every(g=>String(g.status).toLowerCase().includes("demo"));if(hasLive){updateStatus("success","Grant data loaded",grants.length+" records loaded from grants.json. Some records appear to be live-source records.",JSON.stringify({mode:"Repository grants.json",recordsLoaded:grants.length,liveRecordsDetected:hasLive},null,2))}else if(hasOnlyDemo){updateStatus("warning","Demo data loaded from grants.json",grants.length+" demo records loaded. Run the GitHub Action collector to replace this with live records.",JSON.stringify({mode:"Repository grants.json",recordsLoaded:grants.length,note:"Demo records detected."},null,2))}else{updateStatus("warning","Grant data loaded for review",grants.length+" records loaded. Verify sources before using them.",JSON.stringify({mode:"Repository grants.json",recordsLoaded:grants.length},null,2))}renderGrants()}catch(error){grants=fallbackGrants.map(normalizeGrant);updateStatus("error","Could not load grants.json — using built-in fallback","The page itself is working, but grants.json could not be loaded or parsed.","Error: "+error.message+"\n\nCommon fixes:\n- Confirm grants.json is in the repository root.\n- Confirm grants.json is valid JSON.\n- Confirm GitHub Pages is serving from main / root.\n- Open the browser console for more details.");renderGrants()}}
-    function formatCurrency(amount,currency){if(!amount||Number(amount)===0)return"Amount not listed";try{return new Intl.NumberFormat("en-US",{style:"currency",currency,maximumFractionDigits:0}).format(Number(amount))}catch{return currency+" "+Number(amount).toLocaleString()}}function formatTTD(amount){if(!amount||Number(amount)===0)return"TTD estimate unavailable";return new Intl.NumberFormat("en-TT",{style:"currency",currency:"TTD",maximumFractionDigits:0}).format(Number(amount))}function getOriginalRange(grant){if(!grant.minFunding&&!grant.maxFunding)return"Amount not listed";if(!grant.minFunding&&grant.maxFunding)return formatCurrency(grant.maxFunding,grant.currency);if(grant.minFunding&&!grant.maxFunding)return formatCurrency(grant.minFunding,grant.currency)+"+";if(grant.minFunding===grant.maxFunding)return formatCurrency(grant.maxFunding,grant.currency);return formatCurrency(grant.minFunding,grant.currency)+"–"+formatCurrency(grant.maxFunding,grant.currency)}function getTTDRange(grant){const rate=exchangeRates[grant.currency]||1;if(!grant.minFunding&&!grant.maxFunding)return"TTD estimate unavailable";if(!grant.minFunding&&grant.maxFunding)return formatTTD(grant.maxFunding*rate);if(grant.minFunding&&!grant.maxFunding)return formatTTD(grant.minFunding*rate)+"+";if(grant.minFunding===grant.maxFunding)return formatTTD(grant.maxFunding*rate);return formatTTD(grant.minFunding*rate)+"–"+formatTTD(grant.maxFunding*rate)}function getRiskClass(value){return String(value||"medium").toLowerCase()}function matchesStarterFilter(grant){return grant.badges.some(b=>String(b).toLowerCase().includes("starter"))}function escapeAttr(value){return String(value||"").replace(/"/g,"&quot;")}
-    function copyGrantSummary(index){const grant=grants[index];const summary=["Grant Shelf Opportunity","",grant.title,"Funder: "+grant.organization,"Status: "+grant.status,"","Match: "+grant.match+"%","Funding: "+getOriginalRange(grant),"Approx. TTD: "+getTTDRange(grant),"","Risk: "+grant.risk,"Effort: "+grant.effort,"Readiness: "+grant.readiness+"%","","Why it matches:",grant.why,"","Caribbean caution:",grant.caution,"","Source:",grant.sourceUrl].join("\n");navigator.clipboard.writeText(summary).then(()=>alert("Grant summary copied for WhatsApp or email sharing.")).catch(()=>alert("Could not copy automatically. Try selecting the card text manually."))}function openSource(url){if(!url||url==="#"){alert("This record has no official source link attached. Treat it as demo or review data.");return}window.open(url,"_blank","noopener,noreferrer")}
-    function renderGrants(){const query=searchInput.value.trim().toLowerCase();const filtered=grants.filter(grant=>{const searchableText=[grant.title,grant.organization,grant.category,grant.why,grant.caution,grant.risk,grant.effort,grant.status,grant.requirements.join(" "),grant.badges.join(" ")].join(" ").toLowerCase();const matchesSearch=!query||searchableText.includes(query);const matchesFilter=activeFilter==="all"||grant.category===activeFilter||(activeFilter==="starter"&&matchesStarterFilter(grant));return matchesSearch&&matchesFilter});if(!filtered.length){grantContainer.innerHTML='<article class="grant-card empty-card"><h3>No matching opportunities found</h3><p>Try terms like climate, youth, digital, health, culture, resilience, Caribbean, or starter friendly.</p></article>';return}grantContainer.innerHTML=filtered.map(grant=>{const originalIndex=grants.indexOf(grant);const badgeClass=String(grant.status).toLowerCase().includes("live")?"live":String(grant.status).toLowerCase().includes("demo")?"demo":"";return `<article class="grant-card"><div class="card-top"><div><p class="org-name">${grant.organization}</p><h3>${grant.title}</h3></div><div class="match-score">${grant.match}% Match</div></div><div class="badge-row"><span class="badge ${badgeClass}">${grant.status}</span>${grant.badges.map(b=>`<span class="badge">${b}</span>`).join("")}</div><div class="meta"><span>${getOriginalRange(grant)}</span><span class="deadline">${grant.deadline}</span></div><div class="currency-box"><strong>Approx. TTD Value</strong><div class="local-value">${getTTDRange(grant)}</div><small>Estimate only. Actual bank rates and fees may vary.</small></div><div class="risk-panel"><div class="risk-item"><div class="risk-label">Risk</div><div class="risk-value ${getRiskClass(grant.risk)}">${grant.risk}</div></div><div class="risk-item"><div class="risk-label">Effort</div><div class="risk-value ${getRiskClass(grant.effort)}">${grant.effort}</div></div><div class="risk-item"><div class="risk-label">Readiness</div><div class="risk-value">${grant.readiness}%</div></div></div><div class="info-box why-box"><strong>Why this matches:</strong><p>${grant.why}</p></div><div class="info-box caution-box"><strong>Caribbean caution:</strong><p>${grant.caution}</p></div><div class="info-box requirements-box"><strong>Likely requirements:</strong><ul>${grant.requirements.map(item=>`<li>${item}</li>`).join("")}</ul></div><div class="button-row"><button class="apply-btn" type="button" onclick="openSource('${escapeAttr(grant.sourceUrl)}')">${grant.nextStep}</button><button class="share-btn" type="button" onclick="copyGrantSummary(${originalIndex})">Copy Summary</button></div></article>`}).join("")}
-    searchInput.addEventListener("input",renderGrants);tags.forEach(tag=>{tag.addEventListener("click",()=>{tags.forEach(t=>t.classList.remove("active"));tag.classList.add("active");activeFilter=tag.dataset.filter;renderGrants()})});reloadDataBtn.addEventListener("click",loadData);loadData();
-  </script>
+  <div class="page-shell">
+    <header class="hero">
+      <nav class="topbar">
+        <div class="brand">
+          <span class="brand-mark">GS</span>
+          <span>Grant Shelf</span>
+        </div>
+        <a class="repo-link" href="#opportunities">Browse opportunities</a>
+      </nav>
+
+      <section class="hero-grid">
+        <div>
+          <p class="eyebrow">Funding intelligence for Caribbean impact</p>
+          <h1>Find grants worth your time.</h1>
+          <p class="hero-copy">
+            Search live and reviewed opportunities using Caribbean-aware fit, risk, effort,
+            readiness, TTD estimates, and caution notes.
+          </p>
+        </div>
+
+        <div class="hero-card">
+          <h2>Built for careful decision-making</h2>
+          <p>
+            Grant Shelf does not just list funding. It helps you decide whether an
+            opportunity is relevant, realistic, and safe to pursue.
+          </p>
+          <div class="hero-tags">
+            <span>TTD estimates</span>
+            <span>Risk cues</span>
+            <span>Source checks</span>
+            <span>Partner prompts</span>
+          </div>
+        </div>
+      </section>
+    </header>
+
+    <main>
+      <section class="control-panel" aria-label="Search and filters">
+        <div class="search-row">
+          <label for="searchInput" class="sr-only">Search opportunities</label>
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="Search by theme, funder, country, project idea, or keyword..."
+          />
+          <button id="reloadBtn" class="secondary-btn" type="button">Reload data</button>
+        </div>
+
+        <div class="filter-row" id="filterRow">
+          <button class="chip active" data-filter="all" type="button">All</button>
+          <button class="chip" data-filter="climate" type="button">Climate</button>
+          <button class="chip" data-filter="youth" type="button">Youth</button>
+          <button class="chip" data-filter="digital" type="button">Digital</button>
+          <button class="chip" data-filter="health" type="button">Health</button>
+          <button class="chip" data-filter="culture" type="button">Culture</button>
+          <button class="chip" data-filter="starter" type="button">Starter Friendly</button>
+          <button class="chip" data-filter="caribbean" type="button">Caribbean / SIDS</button>
+        </div>
+
+        <div class="sort-row">
+          <label for="sortSelect">Sort by</label>
+          <select id="sortSelect">
+            <option value="match">Best match</option>
+            <option value="deadline">Deadline</option>
+            <option value="readiness">Readiness</option>
+            <option value="risk">Lowest risk</option>
+            <option value="title">Title</option>
+          </select>
+        </div>
+      </section>
+
+      <section class="notice-grid">
+        <article class="notice-card">
+          <strong>Exchange rate used</strong>
+          <span>USD 1 ≈ TTD 6.80 / EUR 1 ≈ TTD 9.00</span>
+        </article>
+        <article class="notice-card">
+          <strong>Always verify</strong>
+          <span>Amounts, bank rates, eligibility, deadlines, and funder terms may change.</span>
+        </article>
+      </section>
+
+      <section class="status-card" id="statusCard">
+        <div class="status-line">
+          <span class="status-dot warning" id="statusDot"></span>
+          <div>
+            <h2 id="statusTitle">Loading grant data...</h2>
+            <p id="statusMessage">Checking grants.json from this repository.</p>
+          </div>
+        </div>
+        <details>
+          <summary>Technical details</summary>
+          <pre id="statusDetails">Starting...</pre>
+        </details>
+      </section>
+
+      <section class="stats-grid" id="statsGrid" aria-label="Grant Shelf summary statistics">
+        <article>
+          <span id="totalCount">0</span>
+          <p>records loaded</p>
+        </article>
+        <article>
+          <span id="visibleCount">0</span>
+          <p>shown after filters</p>
+        </article>
+        <article>
+          <span id="liveCount">0</span>
+          <p>live-source records</p>
+        </article>
+        <article>
+          <span id="demoCount">0</span>
+          <p>demo records</p>
+        </article>
+      </section>
+
+      <section class="section-heading" id="opportunities">
+        <div>
+          <p class="eyebrow dark">Recommended opportunities</p>
+          <h2>Review before you apply</h2>
+        </div>
+        <p>
+          Use the cards as decision support. Open the official source before taking action.
+        </p>
+      </section>
+
+      <section id="grantContainer" class="opportunity-grid" aria-live="polite"></section>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>
