@@ -330,6 +330,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-359201",
+    "title": "Advancing Research on Empirically-Supported Interventions for Older Adults Living with Serious Mental Illness (SMI) (R01 Clinical Trial Optional)",
+    "organization": "National Institutes of Health",
+    "category": "health",
+    "match": 59,
+    "deadline": "10/15/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/359201",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-361448",
     "title": "BRAIN Initiative: Data Archives for the BRAIN Initiative",
     "organization": "National Institutes of Health",
@@ -1110,36 +1140,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362483",
-    "title": "Phase 2 Produce Prescription Pilot Program",
-    "organization": "Indian Health Service",
-    "category": "health",
-    "match": 59,
-    "deadline": "06/22/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362483",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-355831",
     "title": "Pregnancy and Postpartum Hypertension Control Initiative",
     "organization": "Office of the Assistant Secretary for Health",
@@ -1565,7 +1565,7 @@
     "organization": "U.S. Mission to the Dominican Republic",
     "category": "digital",
     "match": 55,
-    "deadline": "Check source",
+    "deadline": "06/04/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
