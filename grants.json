@@ -270,36 +270,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-361926",
-    "title": "Secure Innovation: Advancing Artificial Intelligence, Cybersecurity, and Digital Resilience in Argentina",
-    "organization": "U.S. Mission to Argentina",
-    "category": "climate",
-    "match": 63,
-    "deadline": "05/31/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361926",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-338441",
     "title": "UCEDD National Training Initiative to Support Youth with Intellectual and Developmental Disabilities involved with the Juvenile Justice System",
     "organization": "Administration for Community Living",
@@ -344,36 +314,6 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/359201",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-361448",
-    "title": "BRAIN Initiative: Data Archives for the BRAIN Initiative",
-    "organization": "National Institutes of Health",
-    "category": "health",
-    "match": 59,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361448",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1830,36 +1770,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-361238",
-    "title": "CyberAICorps Scholarship for Service",
-    "organization": "U.S. National Science Foundation",
-    "category": "digital",
-    "match": 55,
-    "deadline": "07/21/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361238",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-358004",
     "title": "Cybersecurity Innovation for Cyberinfrastructure",
     "organization": "U.S. National Science Foundation",
@@ -1904,6 +1814,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/306169",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-362626",
+    "title": "EnglishxSTEM",
+    "organization": "U.S. Mission to the Dominican Republic",
+    "category": "digital",
+    "match": 55,
+    "deadline": "06/30/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362626",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2940,20 +2880,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-356119",
-    "title": "U.S. National Science Foundation Research Traineeship (NRT) Program",
-    "organization": "U.S. National Science Foundation",
-    "category": "youth",
+    "id": "grantsgov-362624",
+    "title": "U.S. Mission UAE PDS Annual Program Statement",
+    "organization": "U.S. Mission to United Arab Emirates",
+    "category": "culture",
     "match": 55,
-    "deadline": "09/08/2026",
+    "deadline": "07/15/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/356119",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362624",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2970,20 +2910,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-361930",
-    "title": "U.S.-Argentina English for the Energy Sector &amp; Minerals Workforce Development",
-    "organization": "U.S. Mission to Argentina",
+    "id": "grantsgov-356119",
+    "title": "U.S. National Science Foundation Research Traineeship (NRT) Program",
+    "organization": "U.S. National Science Foundation",
     "category": "youth",
     "match": 55,
-    "deadline": "05/31/2026",
+    "deadline": "09/08/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361930",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/356119",
     "badges": [
       "Live Source",
       "Verify Eligibility",
