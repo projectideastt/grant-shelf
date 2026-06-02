@@ -330,6 +330,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-361448",
+    "title": "BRAIN Initiative: Data Archives for the BRAIN Initiative",
+    "organization": "National Institutes of Health",
+    "category": "health",
+    "match": 59,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/361448",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-353059",
     "title": "BRAIN Initiative: Data Archives for the BRAIN Initiative (R24 Clinical Trial Optional)",
     "organization": "National Institutes of Health",
@@ -1320,36 +1350,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362037",
-    "title": "Strengthening U.S. Studies in Higher Education in Argentina",
-    "organization": "U.S. Mission to Argentina",
-    "category": "youth",
-    "match": 59,
-    "deadline": "06/01/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362037",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-362384",
     "title": "The Gus Schumacher Nutrition Incentive Program",
     "organization": "National Institute of Food and Agriculture",
@@ -1754,6 +1754,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362388",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-361238",
+    "title": "CyberAICorps Scholarship for Service",
+    "organization": "U.S. National Science Foundation",
+    "category": "digital",
+    "match": 55,
+    "deadline": "07/21/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/361238",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2624,36 +2654,6 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/344608",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-334326",
-    "title": "Tribal Colleges and Universities Program",
-    "organization": "U.S. National Science Foundation",
-    "category": "digital",
-    "match": 55,
-    "deadline": "06/01/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/334326",
     "badges": [
       "Live Source",
       "Verify Eligibility",
