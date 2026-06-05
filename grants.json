@@ -390,36 +390,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362311",
-    "title": "Career Pathways Exploration Grant Program 84.424J",
-    "organization": "Office of Elementary and Secondary Education",
-    "category": "youth",
-    "match": 59,
-    "deadline": "06/09/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362311",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-362258",
     "title": "Climate Program Office FY 2026 - Regional Integrated Sciences and Assessments (RISA)",
     "organization": "DOC NOAA - ERA Production",
@@ -1230,12 +1200,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362284",
-    "title": "Rural Communities Opioid Response Program (RCORP)-Impact",
+    "id": "grantsgov-362283",
+    "title": "Rural Communities Opioid Response Program (RCORP)-Planning",
     "organization": "Health Resources and Services Administration",
     "category": "health",
     "match": 59,
-    "deadline": "Check source",
+    "deadline": "07/08/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -1243,7 +1213,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362284",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362283",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1500,36 +1470,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362419",
-    "title": "Alumni Engagement Innovation Fund (AEIF) 2026 &ndash; Summit Dominican Republic",
-    "organization": "U.S. Mission to the Dominican Republic",
-    "category": "digital",
-    "match": 55,
-    "deadline": "06/04/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362419",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-322314",
     "title": "Ambassadors Fund for Cultural Preservation Large Grants Program",
     "organization": "U.S. Mission to Cambodia",
@@ -1740,12 +1680,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-361238",
-    "title": "CyberAICorps Scholarship for Service",
-    "organization": "U.S. National Science Foundation",
+    "id": "grantsgov-362663",
+    "title": "CyberNext: Advance Cybersecurity and AI Readiness",
+    "organization": "U.S. Mission to Albania",
     "category": "digital",
     "match": 55,
-    "deadline": "07/21/2026",
+    "deadline": "Check source",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -1753,7 +1693,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361238",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362663",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2114,6 +2054,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362232",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-362664",
+    "title": "GameON:  U.S.-Albania E-Sports and Innovation",
+    "organization": "U.S. Mission to Albania",
+    "category": "digital",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362664",
     "badges": [
       "Live Source",
       "Verify Eligibility",
