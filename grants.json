@@ -390,36 +390,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362258",
-    "title": "Climate Program Office FY 2026 - Regional Integrated Sciences and Assessments (RISA)",
-    "organization": "DOC NOAA - ERA Production",
-    "category": "climate",
-    "match": 59,
-    "deadline": "06/05/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362258",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-103313",
     "title": "Climate Program Office for FY 2012",
     "organization": "Department of Commerce",
@@ -1620,6 +1590,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-347509",
+    "title": "Combustion and Fire Systems",
+    "organization": "U.S. National Science Foundation",
+    "category": "climate",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/347509",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-362608",
     "title": "Cooperative Agreement for affiliated Partner with the Gulf Coast Cooperative Ecosystem Studies Unit",
     "organization": "Geological Survey",
@@ -1650,12 +1650,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362388",
-    "title": "Cooperative Agreement for affiliated Partner with the Hawaii-Pacific Island Cooperative Ecosystem Studies Unit",
+    "id": "grantsgov-362697",
+    "title": "Cooperative Agreement for affiliated Partner with the North Atlantic Coast Cooperative Ecosystem Studies Unit",
     "organization": "Geological Survey",
     "category": "caribbean",
     "match": 55,
-    "deadline": "06/12/2026",
+    "deadline": "07/05/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -1663,7 +1663,7 @@
     "effort": "High",
     "readiness": 45,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362388",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362697",
     "badges": [
       "Live Source",
       "Verify Eligibility",
