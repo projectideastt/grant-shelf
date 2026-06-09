@@ -150,6 +150,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-362726",
+    "title": "FY26 Law Enforcement Mental Health and Wellness Act Program",
+    "organization": "Community Oriented Policing Services",
+    "category": "health",
+    "match": 63,
+    "deadline": "07/30/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Low",
+    "effort": "Medium",
+    "readiness": 76,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362726",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-360561",
     "title": "Growing Great Ideas: Research Education Course in Product Development and Entrepreneurship for Life Science Researchers",
     "organization": "National Institutes of Health",
@@ -374,6 +404,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362311",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-362258",
+    "title": "Climate Program Office FY 2026 - Regional Integrated Sciences and Assessments (RISA)",
+    "organization": "DOC NOAA - ERA Production",
+    "category": "climate",
+    "match": 59,
+    "deadline": "06/10/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362258",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -630,36 +690,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-357421",
-    "title": "Full-Scale Hybrid Effectiveness-Implementation Trials for Mental Health Interventions (R01 - Clinical Trial Required)",
-    "organization": "National Institutes of Health",
-    "category": "health",
-    "match": 59,
-    "deadline": "10/15/2027",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/357421",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-360972",
     "title": "Garrett Lee Smith Campus Suicide Prevention",
     "organization": "Substance Abuse and Mental Health Services Adminis",
@@ -764,6 +794,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362024",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-362729",
+    "title": "MINE HEALTH AND SAFETY STATE GRANTS",
+    "organization": "Mine Safety and Health Administration",
+    "category": "health",
+    "match": 59,
+    "deadline": "08/10/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362729",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -931,11 +991,11 @@
   },
   {
     "id": "grantsgov-360387",
-    "title": "Optimal Treatment Strategies for use of Anti-Obesity Medications (AOMs) in Children and Adolescents Clinical Centers",
+    "title": "Optimal Treatment Strategies for use of Anti-Obesity Medications (AOMs) in Children and Adolescents Clinical Centers (U01 Clinical Trial Required)",
     "organization": "National Institutes of Health",
     "category": "health",
     "match": 59,
-    "deadline": "Check source",
+    "deadline": "10/09/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -1590,20 +1650,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-347509",
-    "title": "Combustion and Fire Systems",
-    "organization": "U.S. National Science Foundation",
+    "id": "grantsgov-362608",
+    "title": "Cooperative Agreement for affiliated Partner with the Gulf Coast Cooperative Ecosystem Studies Unit",
+    "organization": "Geological Survey",
     "category": "climate",
     "match": 55,
-    "deadline": "Check source",
+    "deadline": "06/29/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/347509",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362608",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1620,12 +1680,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362608",
-    "title": "Cooperative Agreement for affiliated Partner with the Gulf Coast Cooperative Ecosystem Studies Unit",
+    "id": "grantsgov-362388",
+    "title": "Cooperative Agreement for affiliated Partner with the Hawaii-Pacific Island Cooperative Ecosystem Studies Unit",
     "organization": "Geological Survey",
-    "category": "climate",
+    "category": "caribbean",
     "match": 55,
-    "deadline": "06/29/2026",
+    "deadline": "06/12/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -1633,7 +1693,7 @@
     "effort": "High",
     "readiness": 45,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362608",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362388",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2250,36 +2310,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-361514",
-    "title": "OIA Brown Treesnake Program 2026",
-    "organization": "Department of the Interior",
-    "category": "caribbean",
-    "match": 55,
-    "deadline": "06/08/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361514",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-361333",
     "title": "Pathways to Enable Secure Open-Source Ecosystems",
     "organization": "U.S. National Science Foundation",
@@ -2400,6 +2430,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-362717",
+    "title": "Readiness and Recreation Initiative (RARI) &ndash; Recurring 5 Year Notice",
+    "organization": "National Park Service",
+    "category": "climate",
+    "match": 55,
+    "deadline": "06/07/2030",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362717",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-357554",
     "title": "Security, Privacy, and Trust in Cyberspace",
     "organization": "U.S. National Science Foundation",
@@ -2444,36 +2504,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/331415",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-361875",
-    "title": "Specialty Crop Block Grant Program Farm Bill 2026",
-    "organization": "Agricultural Marketing Service",
-    "category": "caribbean",
-    "match": 55,
-    "deadline": "06/08/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361875",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2894,36 +2924,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362407",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-361818",
-    "title": "USGS Cooperative Landslide Hazard Mapping and Assessment Program Announcement for Fiscal Year 2026",
-    "organization": "Geological Survey",
-    "category": "climate",
-    "match": 55,
-    "deadline": "06/08/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361818",
     "badges": [
       "Live Source",
       "Verify Eligibility",
