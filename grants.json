@@ -390,36 +390,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362311",
-    "title": "Career Pathways Exploration Grant Program 84.424J",
-    "organization": "Office of Elementary and Secondary Education",
-    "category": "youth",
-    "match": 59,
-    "deadline": "06/09/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362311",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-362258",
     "title": "Climate Program Office FY 2026 - Regional Integrated Sciences and Assessments (RISA)",
     "organization": "DOC NOAA - ERA Production",
@@ -1620,36 +1590,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-359061",
-    "title": "Centers of Research Excellence in Science and Technology - Research Infrastructure for Science and Engineering",
-    "organization": "U.S. National Science Foundation",
-    "category": "digital",
-    "match": 55,
-    "deadline": "08/07/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/359061",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-362608",
     "title": "Cooperative Agreement for affiliated Partner with the Gulf Coast Cooperative Ecosystem Studies Unit",
     "organization": "Geological Survey",
@@ -1664,36 +1604,6 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362608",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-362388",
-    "title": "Cooperative Agreement for affiliated Partner with the Hawaii-Pacific Island Cooperative Ecosystem Studies Unit",
-    "organization": "Geological Survey",
-    "category": "caribbean",
-    "match": 55,
-    "deadline": "06/12/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362388",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2460,6 +2370,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-350230",
+    "title": "Research in the Formation of Engineers",
+    "organization": "U.S. National Science Foundation",
+    "category": "youth",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/350230",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-357554",
     "title": "Security, Privacy, and Trust in Cyberspace",
     "organization": "U.S. National Science Foundation",
@@ -2504,6 +2444,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/331415",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-362754",
+    "title": "Southwest Border Resource Protection Program",
+    "organization": "National Park Service",
+    "category": "caribbean",
+    "match": 55,
+    "deadline": "09/08/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362754",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2684,6 +2654,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/344608",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-334326",
+    "title": "Tribal Colleges and Universities Program",
+    "organization": "U.S. National Science Foundation",
+    "category": "digital",
+    "match": 55,
+    "deadline": "09/01/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/334326",
     "badges": [
       "Live Source",
       "Verify Eligibility",
