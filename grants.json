@@ -390,36 +390,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362258",
-    "title": "Climate Program Office FY 2026 - Regional Integrated Sciences and Assessments (RISA)",
-    "organization": "DOC NOAA - ERA Production",
-    "category": "climate",
-    "match": 59,
-    "deadline": "06/10/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362258",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-103313",
     "title": "Climate Program Office for FY 2012",
     "organization": "Department of Commerce",
@@ -1590,6 +1560,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-347509",
+    "title": "Combustion and Fire Systems",
+    "organization": "U.S. National Science Foundation",
+    "category": "climate",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/347509",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-362608",
     "title": "Cooperative Agreement for affiliated Partner with the Gulf Coast Cooperative Ecosystem Studies Unit",
     "organization": "Geological Survey",
@@ -2220,12 +2220,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-361333",
-    "title": "Pathways to Enable Secure Open-Source Ecosystems",
+    "id": "grantsgov-361952",
+    "title": "Professional Formation of Engineers",
     "organization": "U.S. National Science Foundation",
-    "category": "digital",
+    "category": "youth",
     "match": 55,
-    "deadline": "09/01/2026",
+    "deadline": "Check source",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2233,7 +2233,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361333",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/361952",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2250,12 +2250,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-361952",
-    "title": "Professional Formation of Engineers",
-    "organization": "U.S. National Science Foundation",
-    "category": "youth",
+    "id": "grantsgov-362757",
+    "title": "Prosperity Stack Fellowship",
+    "organization": "U.S. Mission to South Korea",
+    "category": "digital",
     "match": 55,
-    "deadline": "Check source",
+    "deadline": "07/13/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2263,7 +2263,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361952",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362757",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2345,7 +2345,7 @@
     "organization": "National Park Service",
     "category": "climate",
     "match": 55,
-    "deadline": "06/07/2030",
+    "deadline": "11/30/2030",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2354,36 +2354,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362717",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-350230",
-    "title": "Research in the Formation of Engineers",
-    "organization": "U.S. National Science Foundation",
-    "category": "youth",
-    "match": 55,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/350230",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2910,6 +2880,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-362758",
+    "title": "U.S.-D.R. Technology and Science Fair",
+    "organization": "U.S. Mission to the Dominican Republic",
+    "category": "digital",
+    "match": 55,
+    "deadline": "07/10/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362758",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-362407",
     "title": "U.S.-ROK Strategic Partnership Initiatives",
     "organization": "U.S. Mission to South Korea",
@@ -2954,36 +2954,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/360357",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-329436",
-    "title": "University Nuclear Leadership Program&ndash; Scholarship and Fellowship Support",
-    "organization": "Idaho Field Office",
-    "category": "digital",
-    "match": 55,
-    "deadline": "10/14/2030",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/329436",
     "badges": [
       "Live Source",
       "Verify Eligibility",
