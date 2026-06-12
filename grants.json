@@ -1560,6 +1560,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-356538",
+    "title": "Atmosphere Cluster",
+    "organization": "U.S. National Science Foundation",
+    "category": "climate",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/356538",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-347509",
     "title": "Combustion and Fire Systems",
     "organization": "U.S. National Science Foundation",
@@ -1800,12 +1830,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-361830",
-    "title": "F26AS00018 - NAWCA 2026 Canada Grants",
-    "organization": "Fish and Wildlife Service",
-    "category": "climate",
+    "id": "grantsgov-362497",
+    "title": "FY 2026 SNAP Process and Technology Improvement",
+    "organization": "Food and Nutrition Service",
+    "category": "digital",
     "match": 55,
-    "deadline": "06/11/2026",
+    "deadline": "06/29/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -1813,7 +1843,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361830",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362497",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1830,12 +1860,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362497",
-    "title": "FY 2026 SNAP Process and Technology Improvement",
-    "organization": "Food and Nutrition Service",
-    "category": "digital",
+    "id": "grantsgov-362771",
+    "title": "FY2025 Historic Preservation Fund- African American Civil Rights- History Grants",
+    "organization": "National Park Service",
+    "category": "culture",
     "match": 55,
-    "deadline": "06/29/2026",
+    "deadline": "07/14/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -1843,7 +1873,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362497",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362771",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2264,36 +2294,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362757",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-322667",
-    "title": "Public Affairs Section Notice of Funding Opportunity 2020",
-    "organization": "U.S. Mission to Cambodia",
-    "category": "culture",
-    "match": 55,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/322667",
     "badges": [
       "Live Source",
       "Verify Eligibility",
