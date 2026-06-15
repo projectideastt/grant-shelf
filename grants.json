@@ -1080,6 +1080,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-362483",
+    "title": "Phase 2 Produce Prescription Pilot Program",
+    "organization": "Indian Health Service",
+    "category": "health",
+    "match": 59,
+    "deadline": "06/22/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362483",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-355831",
     "title": "Pregnancy and Postpartum Hypertension Control Initiative",
     "organization": "Office of the Assistant Secretary for Health",
@@ -1274,36 +1304,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/358552",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-361583",
-    "title": "State Pilot Program for Treatment for Pregnant and Postpartum Women",
-    "organization": "Substance Abuse and Mental Health Services Adminis",
-    "category": "health",
-    "match": 59,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361583",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2100,36 +2100,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362220",
-    "title": "Freedom 250 Poland 2026",
-    "organization": "U.S. Mission to Poland",
-    "category": "culture",
-    "match": 55,
-    "deadline": "06/14/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362220",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-362664",
     "title": "GameON:  U.S.-Albania E-Sports and Innovation",
     "organization": "U.S. Mission to Albania",
@@ -2703,7 +2673,7 @@
     "id": "grantsgov-358783",
     "title": "U.S. Embassy Luanda Public Diplomacy Section Request for a Full Proposal Application",
     "organization": "U.S. Mission to Angola",
-    "category": "digital",
+    "category": "culture",
     "match": 55,
     "deadline": "Check source",
     "currency": "USD",
@@ -2984,6 +2954,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/360357",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-329436",
+    "title": "University Nuclear Leadership Program&ndash; Scholarship and Fellowship Support",
+    "organization": "Idaho Field Office",
+    "category": "digital",
+    "match": 55,
+    "deadline": "10/14/2030",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/329436",
     "badges": [
       "Live Source",
       "Verify Eligibility",
