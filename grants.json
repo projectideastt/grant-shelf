@@ -60,20 +60,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-350415",
-    "title": "Cancer Research Education Grants Program - Courses for Skills Development (R25 Clinical Trial Not Allowed)",
-    "organization": "National Institutes of Health",
-    "category": "youth",
+    "id": "grantsgov-360977",
+    "title": "Certified Community Behavioral Health Clinics (CCBHCs) Planning, Development, and Implementation Grant",
+    "organization": "Substance Abuse and Mental Health Services Adminis",
+    "category": "health",
     "match": 63,
-    "deadline": "01/07/2027",
+    "deadline": "08/17/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
+    "risk": "Low",
+    "effort": "Medium",
+    "readiness": 76,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/350415",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/360977",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -90,20 +90,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-360977",
-    "title": "Certified Community Behavioral Health Clinics (CCBHCs) Planning, Development, and Implementation Grant",
-    "organization": "Substance Abuse and Mental Health Services Adminis",
+    "id": "grantsgov-334092",
+    "title": "Culture of Research and University Exchanges Prep program (CRUX) in One Health and Agricultural STEM",
+    "organization": "U.S. Mission to Zimbabwe",
     "category": "health",
     "match": 63,
-    "deadline": "08/17/2026",
+    "deadline": "Check source",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "Low",
-    "effort": "Medium",
-    "readiness": 76,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/360977",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/334092",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -510,6 +510,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-348830",
+    "title": "DoW&rsquo;s Energy, Installations, and Environment Innovation Partners Programs",
+    "organization": "Washington Headquarters Services",
+    "category": "climate",
+    "match": 59,
+    "deadline": "01/08/2028",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/348830",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-361001",
     "title": "Early Childhood Comprehensive Systems SEED Project: Scaling Effective Early Childhood Systems Development (ECCS SEED)",
     "organization": "Health Resources and Services Administration",
@@ -704,36 +734,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/359138",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-360972",
-    "title": "Garrett Lee Smith Campus Suicide Prevention",
-    "organization": "Substance Abuse and Mental Health Services Adminis",
-    "category": "health",
-    "match": 59,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/360972",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1094,6 +1094,36 @@
     "readiness": 76,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/342851",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-362483",
+    "title": "Phase 2 Produce Prescription Pilot Program",
+    "organization": "Indian Health Service",
+    "category": "health",
+    "match": 59,
+    "deadline": "06/22/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362483",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2040,36 +2070,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362769",
-    "title": "FY2025 Historic Preservation Fund- African American Civil Rights- Preservation Grants",
-    "organization": "National Park Service",
-    "category": "culture",
-    "match": 55,
-    "deadline": "07/14/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362769",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-362788",
     "title": "FY26 Bureau of Land Management Cultural and Paleontological Resource Management - Bureau wide",
     "organization": "Bureau of Land Management",
@@ -2474,6 +2474,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362717",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-350230",
+    "title": "Research in the Formation of Engineers",
+    "organization": "U.S. National Science Foundation",
+    "category": "youth",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/350230",
     "badges": [
       "Live Source",
       "Verify Eligibility",
