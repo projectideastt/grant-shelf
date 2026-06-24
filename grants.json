@@ -180,36 +180,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-360561",
-    "title": "Growing Great Ideas: Research Education Course in Product Development and Entrepreneurship for Life Science Researchers",
-    "organization": "National Institutes of Health",
-    "category": "youth",
-    "match": 63,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/360561",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-360645",
     "title": "Interdisciplinary Research Networks to Advance Biomedical Research on Resilience and Health Optimization",
     "organization": "National Institutes of Health",
@@ -605,7 +575,7 @@
     "organization": "Administration for Community Living",
     "category": "health",
     "match": 59,
-    "deadline": "07/22/2026",
+    "deadline": "08/01/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -1484,6 +1454,36 @@
     "readiness": 76,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362621",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-362937",
+    "title": "2026 U.S. Speaker Program",
+    "organization": "U.S. Mission to India",
+    "category": "digital",
+    "match": 55,
+    "deadline": "07/24/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362937",
     "badges": [
       "Live Source",
       "Verify Eligibility",
