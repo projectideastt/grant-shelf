@@ -270,6 +270,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-362945",
+    "title": "AIDS Research Center on Mental Health and HIV/AIDS (P30 Clinical Trial Optional)",
+    "organization": "National Institutes of Health",
+    "category": "health",
+    "match": 59,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362945",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-362572",
     "title": "Advancing Behavioral Health in Corrections: Training and Policy Innovation Initiative",
     "organization": "National Institute of Corrections",
@@ -344,36 +374,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/361448",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-353059",
-    "title": "BRAIN Initiative: Data Archives for the BRAIN Initiative (R24 Clinical Trial Optional)",
-    "organization": "National Institutes of Health",
-    "category": "health",
-    "match": 59,
-    "deadline": "06/24/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/353059",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -933,7 +933,7 @@
     "id": "grantsgov-362767",
     "title": "National Information and Referral Support Center",
     "organization": "Administration for Community Living",
-    "category": "health",
+    "category": "youth",
     "match": 59,
     "deadline": "07/22/2026",
     "currency": "USD",
@@ -1424,36 +1424,6 @@
     "readiness": 76,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/361056",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-362621",
-    "title": "U.S. STEM Summer Exchange for Youth",
-    "organization": "U.S. Mission to the Dominican Republic",
-    "category": "youth",
-    "match": 59,
-    "deadline": "06/24/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Low",
-    "effort": "Medium",
-    "readiness": 76,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362621",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2054,6 +2024,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362771",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-362769",
+    "title": "FY2025 Historic Preservation Fund- African American Civil Rights- Preservation Grants",
+    "organization": "National Park Service",
+    "category": "culture",
+    "match": 55,
+    "deadline": "07/14/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362769",
     "badges": [
       "Live Source",
       "Verify Eligibility",
