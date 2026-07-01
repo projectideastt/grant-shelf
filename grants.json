@@ -240,6 +240,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-362830",
+    "title": "U.S. Embassy Bridgetown: EducationUSA Eastern Caribbean Regional Advising Program",
+    "organization": "U.S. Mission to Barbados",
+    "category": "youth",
+    "match": 63,
+    "deadline": "07/24/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362830",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-338441",
     "title": "UCEDD National Training Initiative to Support Youth with Intellectual and Developmental Disabilities involved with the Juvenile Justice System",
     "organization": "Administration for Community Living",
@@ -824,36 +854,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/355824",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-359155",
-    "title": "Mind and Body Interventions to Restore Whole Person Health via Emotional Well-Being Mechanisms (R61/R33 Clinical Trial Required)",
-    "organization": "National Institutes of Health",
-    "category": "health",
-    "match": 59,
-    "deadline": "06/07/2028",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/359155",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1830,10 +1830,10 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-306169",
-    "title": "Engineering for Civil Infrastructure",
-    "organization": "U.S. National Science Foundation",
-    "category": "climate",
+    "id": "grantsgov-363015",
+    "title": "Diaper Distribution Demonstration Research Pilot (DDDRP)",
+    "organization": "Administration for Children and Families - OCS",
+    "category": "health",
     "match": 55,
     "deadline": "Check source",
     "currency": "USD",
@@ -1843,7 +1843,7 @@
     "effort": "High",
     "readiness": 45,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/306169",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363015",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1860,20 +1860,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362626",
-    "title": "EnglishxSTEM",
-    "organization": "U.S. Mission to the Dominican Republic",
-    "category": "digital",
+    "id": "grantsgov-306169",
+    "title": "Engineering for Civil Infrastructure",
+    "organization": "U.S. National Science Foundation",
+    "category": "climate",
     "match": 55,
-    "deadline": "06/30/2026",
+    "deadline": "Check source",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362626",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/306169",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2040,12 +2040,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362110",
-    "title": "FY26 Marine Turtle Conservation for Sustainable U.S. Fisheries Grant Program",
+    "id": "grantsgov-362054",
+    "title": "FY26 Ruth D. Gates Coral Reef Conservation Grants - Fishery Management",
     "organization": "DOC NOAA - ERA Production",
     "category": "climate",
     "match": 55,
-    "deadline": "06/30/2026",
+    "deadline": "07/23/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2053,7 +2053,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362110",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362054",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2490,6 +2490,66 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-350230",
+    "title": "Research in the Formation of Engineers",
+    "organization": "U.S. National Science Foundation",
+    "category": "youth",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/350230",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363014",
+    "title": "Scholarly Editions and Translations",
+    "organization": "National Endowment for the Humanities",
+    "category": "culture",
+    "match": 55,
+    "deadline": "09/16/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363014",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-357554",
     "title": "Security, Privacy, and Trust in Cyberspace",
     "organization": "U.S. National Science Foundation",
@@ -2594,36 +2654,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/345645",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-362502",
-    "title": "Storytelling to Safeguard Cultural Identity and Sovereignty: Bolstering the Tourism Industry",
-    "organization": "U.S. Mission to Uzbekistan",
-    "category": "culture",
-    "match": 55,
-    "deadline": "06/30/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362502",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -3030,12 +3060,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-361262",
-    "title": "Veterans Cemetery Grants",
-    "organization": "VA National Cemetery Administration",
-    "category": "caribbean",
+    "id": "grantsgov-329436",
+    "title": "University Nuclear Leadership Program&ndash; Scholarship and Fellowship Support",
+    "organization": "Idaho Field Office",
+    "category": "digital",
     "match": 55,
-    "deadline": "07/01/2026",
+    "deadline": "10/14/2030",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -3043,7 +3073,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361262",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/329436",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -3060,12 +3090,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362424",
-    "title": "Young Pacific Leaders Solutions Labs",
-    "organization": "U.S. Mission to New Zealand",
+    "id": "grantsgov-361262",
+    "title": "Veterans Cemetery Grants",
+    "organization": "VA National Cemetery Administration",
     "category": "caribbean",
     "match": 55,
-    "deadline": "06/30/2026",
+    "deadline": "07/01/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -3073,7 +3103,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362424",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/361262",
     "badges": [
       "Live Source",
       "Verify Eligibility",
