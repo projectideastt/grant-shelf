@@ -1235,7 +1235,7 @@
     "organization": "Office of the Assistant Secretary for Health",
     "category": "health",
     "match": 59,
-    "deadline": "01/09/2027",
+    "deadline": "01/11/2027",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -1800,36 +1800,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362053",
-    "title": "FY2026 - Historic Preservation Fund- Annual Tribal Historic Preservation Office Grants",
-    "organization": "National Park Service",
-    "category": "caribbean",
-    "match": 55,
-    "deadline": "07/21/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362053",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363080",
     "title": "FY26 American Spaces Vietnam Programming",
     "organization": "U.S. Mission to Vietnam",
@@ -1904,6 +1874,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/361620",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363121",
+    "title": "Freedom250 Advancing U.S. Artificial Intelligence Leadership in Algeria",
+    "organization": "U.S. Mission to Algeria",
+    "category": "youth",
+    "match": 55,
+    "deadline": "08/10/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363121",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2024,36 +2024,6 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/358397",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-359104",
-    "title": "Louis Stokes Alliances for Minority Participation",
-    "organization": "U.S. National Science Foundation",
-    "category": "youth",
-    "match": 55,
-    "deadline": "11/20/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/359104",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2204,6 +2174,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/345083",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363146",
+    "title": "Okinawa Disaster Preparedness and Crisis Response Fora",
+    "organization": "U.S. Mission to Japan",
+    "category": "climate",
+    "match": 55,
+    "deadline": "08/10/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363146",
     "badges": [
       "Live Source",
       "Verify Eligibility",
