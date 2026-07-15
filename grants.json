@@ -1320,6 +1320,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363184",
+    "title": "American Center Yangon (ACY) Small Grants Competition",
+    "organization": "U.S. Mission to Myanmar",
+    "category": "digital",
+    "match": 55,
+    "deadline": "07/31/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Low",
+    "effort": "Medium",
+    "readiness": 76,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363184",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-359266",
     "title": "Annual Program Statement (APS)",
     "organization": "U.S. Mission to Greece",
@@ -1394,36 +1424,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/359120",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-356538",
-    "title": "Atmosphere Cluster",
-    "organization": "U.S. National Science Foundation",
-    "category": "climate",
-    "match": 55,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/356538",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1664,66 +1664,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362055",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-362771",
-    "title": "FY2025 Historic Preservation Fund- African American Civil Rights- History Grants",
-    "organization": "National Park Service",
-    "category": "culture",
-    "match": 55,
-    "deadline": "07/14/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362771",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-362769",
-    "title": "FY2025 Historic Preservation Fund- African American Civil Rights- Preservation Grants",
-    "organization": "National Park Service",
-    "category": "culture",
-    "match": 55,
-    "deadline": "07/14/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362769",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2010,20 +1950,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-359104",
-    "title": "Louis Stokes Alliances for Minority Participation",
-    "organization": "U.S. National Science Foundation",
-    "category": "youth",
+    "id": "grantsgov-363185",
+    "title": "Jefferson Center Mandalay (JCM) Small Grants Competition",
+    "organization": "U.S. Mission to Myanmar",
+    "category": "digital",
     "match": 55,
-    "deadline": "11/20/2026",
+    "deadline": "07/31/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "Medium",
+    "risk": "Low",
     "effort": "Medium",
-    "readiness": 62,
+    "readiness": 76,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/359104",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363185",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2204,6 +2144,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363146",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-362383",
+    "title": "PD ANNUAL PROGRAM STATEMENT",
+    "organization": "U.S. Mission to Bolivia ",
+    "category": "culture",
+    "match": 55,
+    "deadline": "08/15/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362383",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2970,12 +2940,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-329436",
-    "title": "University Nuclear Leadership Program&ndash; Scholarship and Fellowship Support",
-    "organization": "Idaho Field Office",
+    "id": "grantsgov-362423",
+    "title": "U.S.-Qatar Strategic Partnership Initiative: Economic, Technology, and Security Cooperation (Freedom 250 Commemorative)",
+    "organization": "U.S. Mission to Qatar",
     "category": "digital",
     "match": 55,
-    "deadline": "10/14/2030",
+    "deadline": "07/16/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2983,7 +2953,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/329436",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362423",
     "badges": [
       "Live Source",
       "Verify Eligibility",
