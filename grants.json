@@ -1800,6 +1800,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363119",
+    "title": "Freedom 250 Great American State Fair Initiative &ndash; Abu Dhabi",
+    "organization": "U.S. Mission to United Arab Emirates",
+    "category": "culture",
+    "match": 55,
+    "deadline": "08/10/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363119",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-363121",
     "title": "Freedom250 Advancing U.S. Artificial Intelligence Leadership in Algeria",
     "organization": "U.S. Mission to Algeria",
@@ -2924,36 +2954,6 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/356119",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-362423",
-    "title": "U.S.-Qatar Strategic Partnership Initiative: Economic, Technology, and Security Cooperation (Freedom 250 Commemorative)",
-    "organization": "U.S. Mission to Qatar",
-    "category": "digital",
-    "match": 55,
-    "deadline": "07/16/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362423",
     "badges": [
       "Live Source",
       "Verify Eligibility",
