@@ -420,36 +420,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-360979",
-    "title": "Consumer and Consumer Support Technical Assistance Center",
-    "organization": "Substance Abuse and Mental Health Services Adminis",
-    "category": "health",
-    "match": 59,
-    "deadline": "07/31/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/360979",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-355829",
     "title": "Coordinating Center for Language Access Services",
     "organization": "Office of the Assistant Secretary for Health",
@@ -644,6 +614,36 @@
     "readiness": 76,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362787",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363260",
+    "title": "FY26 Safer Outcomes Program",
+    "organization": "Community Oriented Policing Services",
+    "category": "health",
+    "match": 59,
+    "deadline": "08/27/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Low",
+    "effort": "Medium",
+    "readiness": 76,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363260",
     "badges": [
       "Live Source",
       "Verify Eligibility",
