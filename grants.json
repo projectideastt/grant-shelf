@@ -1080,6 +1080,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363283",
+    "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
+    "organization": "Bureau of Oceans - Int. Environmental - Scientific",
+    "category": "climate",
+    "match": 59,
+    "deadline": "08/14/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363283",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-358552",
     "title": "Short Courses on Innovative Methodologies and Approaches in the Behavioral and Social Sciences (R25 Clinical Trials Not Allowed)",
     "organization": "National Institutes of Health",
@@ -1355,7 +1385,7 @@
     "organization": "U.S. Mission to Myanmar",
     "category": "digital",
     "match": 55,
-    "deadline": "07/31/2026",
+    "deadline": "08/10/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -1680,36 +1710,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362055",
-    "title": "F26AS00013 FY 2026 Clean Vessel Act (CVA) Notice of Funding Opportunity",
-    "organization": "Fish and Wildlife Service",
-    "category": "caribbean",
-    "match": 55,
-    "deadline": "07/22/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362055",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363080",
     "title": "FY26 American Spaces Vietnam Programming",
     "organization": "U.S. Mission to Vietnam",
@@ -2015,7 +2015,7 @@
     "organization": "U.S. Mission to Myanmar",
     "category": "digital",
     "match": 55,
-    "deadline": "07/31/2026",
+    "deadline": "08/10/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
