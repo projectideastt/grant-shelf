@@ -1710,36 +1710,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363080",
-    "title": "FY26 American Spaces Vietnam Programming",
-    "organization": "U.S. Mission to Vietnam",
-    "category": "digital",
-    "match": 55,
-    "deadline": "08/02/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363080",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-362788",
     "title": "FY26 Bureau of Land Management Cultural and Paleontological Resource Management - Bureau wide",
     "organization": "Bureau of Land Management",
@@ -3000,12 +2970,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363062",
-    "title": "Vietnam CyberSafe Hacks 2026",
-    "organization": "U.S. Mission to Vietnam",
+    "id": "grantsgov-329436",
+    "title": "University Nuclear Leadership Program&ndash; Scholarship and Fellowship Support",
+    "organization": "Idaho Field Office",
     "category": "digital",
     "match": 55,
-    "deadline": "08/02/2026",
+    "deadline": "10/14/2030",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -3013,7 +2983,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363062",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/329436",
     "badges": [
       "Live Source",
       "Verify Eligibility",
