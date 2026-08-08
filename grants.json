@@ -300,6 +300,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363293",
+    "title": "American Innovation Hub: AI &amp; Digital Skills for the Creative &amp; Tech Economy",
+    "organization": "U.S. Mission to Indonesia",
+    "category": "youth",
+    "match": 59,
+    "deadline": "08/30/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363293",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-361448",
     "title": "BRAIN Initiative: Data Archives for the BRAIN Initiative",
     "organization": "National Institutes of Health",
@@ -780,36 +810,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362571",
-    "title": "NEA National Heritage Fellowships Awards Program, FY 2027",
-    "organization": "National Endowment for the Arts",
-    "category": "culture",
-    "match": 59,
-    "deadline": "08/07/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362571",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-359970",
     "title": "NIEHS Worker Training Program&rsquo;s HAZMAT Training at DOE Nuclear Weapons Complex (UH4 Clinical Trial Not Allowed)",
     "organization": "National Institutes of Health",
@@ -854,6 +854,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363369",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-334905",
+    "title": "National Defense Education Program (NDEP) Science, Technology, Engineering, and Mathematics (STEM) Consortia Request for Information (RFI) for the Office of the Under Secretary of Defense (Research &amp; Engineering)",
+    "organization": "Department of Defense",
+    "category": "youth",
+    "match": 59,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/334905",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1680,12 +1710,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362863",
-    "title": "Escape The Hack: Countering Cyber Scams with an Immersive Experience for Everyday Indonesians",
-    "organization": "U.S. Mission to Indonesia",
-    "category": "digital",
+    "id": "grantsgov-363087",
+    "title": "English Language Teaching Services Program",
+    "organization": "U.S. Mission to Djibouti",
+    "category": "youth",
     "match": 55,
-    "deadline": "08/07/2026",
+    "deadline": "08/09/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -1693,7 +1723,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362863",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363087",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2984,36 +3014,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/329436",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363043",
-    "title": "Voices for the Future",
-    "organization": "U.S. Mission to Indonesia",
-    "category": "youth",
-    "match": 55,
-    "deadline": "08/07/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363043",
     "badges": [
       "Live Source",
       "Verify Eligibility",
