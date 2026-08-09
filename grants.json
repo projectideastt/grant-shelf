@@ -1890,6 +1890,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363119",
+    "title": "Freedom 250 Great American State Fair Initiative &ndash; Abu Dhabi",
+    "organization": "U.S. Mission to United Arab Emirates",
+    "category": "culture",
+    "match": 55,
+    "deadline": "08/10/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363119",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-363121",
     "title": "Freedom250 Advancing U.S. Artificial Intelligence Leadership in Algeria",
     "organization": "U.S. Mission to Algeria",
@@ -2024,6 +2054,36 @@
     "readiness": 76,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363185",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-359104",
+    "title": "Louis Stokes Alliances for Minority Participation",
+    "organization": "U.S. National Science Foundation",
+    "category": "youth",
+    "match": 55,
+    "deadline": "11/20/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/359104",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2370,36 +2430,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362903",
-    "title": "Prosperity through Partnership:  Catalyzing U.S.-Algerian Collaboration in Innovation, Commerce and English Language",
-    "organization": "U.S. Mission to Algeria",
-    "category": "digital",
-    "match": 55,
-    "deadline": "08/08/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362903",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-322667",
     "title": "Public Affairs Section Notice of Funding Opportunity 2020",
     "organization": "U.S. Mission to Cambodia",
@@ -2564,6 +2594,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362909",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-350230",
+    "title": "Research in the Formation of Engineers",
+    "organization": "U.S. National Science Foundation",
+    "category": "youth",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/350230",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2910,36 +2970,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363104",
-    "title": "U.S. Embassy Suva Annual Program Statement for Fiji, Kiribati, Nauru, and Tuvalu",
-    "organization": "U.S. Mission to Fiji",
-    "category": "youth",
-    "match": 55,
-    "deadline": "08/08/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363104",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-356119",
     "title": "U.S. National Science Foundation Research Traineeship (NRT) Program",
     "organization": "U.S. National Science Foundation",
@@ -2973,7 +3003,7 @@
     "id": "grantsgov-363320",
     "title": "U.S.-Argentina Alumni Summit",
     "organization": "U.S. Mission to Argentina",
-    "category": "climate",
+    "category": "digital",
     "match": 55,
     "deadline": "08/20/2026",
     "currency": "USD",
