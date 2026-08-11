@@ -690,6 +690,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-348923",
+    "title": "Fiscal Year (FY) 2022-2026 Advanced Digital Construction Management Systems (ADCMS)",
+    "organization": "DOT Federal Highway Administration ",
+    "category": "digital",
+    "match": 59,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "Medium",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/348923",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-359138",
     "title": "Forecast to Publish a Notice of Funding Opportunity Announcement for Addressing Determinants of Health Disparities Among Rural Populations (R01 - Clinical Trial Optional)",
     "organization": "National Institutes of Health",
@@ -810,20 +840,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362729",
-    "title": "MINE HEALTH AND SAFETY STATE GRANTS",
-    "organization": "Mine Safety and Health Administration",
-    "category": "health",
+    "id": "grantsgov-357710",
+    "title": "Institutional Training Programs to Advance Translational Research on Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) (T32 Clinical Trial Not Allowed)",
+    "organization": "National Institutes of Health",
+    "category": "youth",
     "match": 59,
-    "deadline": "08/10/2026",
+    "deadline": "09/25/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362729",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/357710",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -854,36 +884,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/355824",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-359155",
-    "title": "Mind and Body Interventions to Restore Whole Person Health via Emotional Well-Being Mechanisms (R61/R33 Clinical Trial Required)",
-    "organization": "National Institutes of Health",
-    "category": "health",
-    "match": 59,
-    "deadline": "06/07/2028",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/359155",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1080,6 +1080,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-361986",
+    "title": "Personal Responsibility Education Innovative Strategies (PREIS)",
+    "organization": "Administration for Children & Families - ACYF/FYSB",
+    "category": "youth",
+    "match": 59,
+    "deadline": "08/18/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/361986",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-355831",
     "title": "Pregnancy and Postpartum Hypertension Control Initiative",
     "organization": "Office of the Assistant Secretary for Health",
@@ -1170,7 +1200,7 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363477",
+    "id": "grantsgov-363524",
     "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
     "organization": "Bureau of Oceans - Int. Environmental - Scientific",
     "category": "climate",
@@ -1183,7 +1213,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363477",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363524",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1244,6 +1274,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/361754",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-361987",
+    "title": "Tribal Personal Responsibility Education Program (Tribal PREP)",
+    "organization": "Administration for Children & Families - ACYF/FYSB",
+    "category": "youth",
+    "match": 59,
+    "deadline": "08/31/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/361987",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1470,36 +1530,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363184",
-    "title": "American Center Yangon (ACY) Small Grants Competition",
-    "organization": "U.S. Mission to Myanmar",
-    "category": "digital",
-    "match": 55,
-    "deadline": "08/10/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Low",
-    "effort": "Medium",
-    "readiness": 76,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363184",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-359266",
     "title": "Annual Program Statement (APS)",
     "organization": "U.S. Mission to Greece",
@@ -1604,6 +1634,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363347",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-348375",
+    "title": "Centers of Research Excellence in Science and Technology",
+    "organization": "U.S. National Science Foundation",
+    "category": "digital",
+    "match": 55,
+    "deadline": "12/04/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/348375",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1920,66 +1980,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363119",
-    "title": "Freedom 250 Great American State Fair Initiative &ndash; Abu Dhabi",
-    "organization": "U.S. Mission to United Arab Emirates",
-    "category": "culture",
-    "match": 55,
-    "deadline": "08/10/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363119",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363121",
-    "title": "Freedom250 Advancing U.S. Artificial Intelligence Leadership in Algeria",
-    "organization": "U.S. Mission to Algeria",
-    "category": "youth",
-    "match": 55,
-    "deadline": "08/10/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363121",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363247",
     "title": "GameON &ndash; U.S.-Albania E-Sports and Innovation",
     "organization": "U.S. Mission to Albania",
@@ -2040,6 +2040,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363519",
+    "title": "Holistic and Evidence-Informed Wellness for STI Prevention",
+    "organization": "Centers for Disease Control - NCHHSTP",
+    "category": "health",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363519",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-358397",
     "title": "Infrastructure Systems and People",
     "organization": "U.S. National Science Foundation",
@@ -2070,20 +2100,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363185",
-    "title": "Jefferson Center Mandalay (JCM) Small Grants Competition",
-    "organization": "U.S. Mission to Myanmar",
-    "category": "digital",
+    "id": "grantsgov-363301",
+    "title": "Legal Competency and Training Program in Southeast Asia and the Pacific",
+    "organization": "Bureau of East Asian and Pacific Affairs ",
+    "category": "youth",
     "match": 55,
-    "deadline": "08/10/2026",
+    "deadline": "08/25/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "Low",
+    "risk": "Medium",
     "effort": "Medium",
-    "readiness": 76,
+    "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363185",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363301",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2310,12 +2340,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363146",
-    "title": "Okinawa Disaster Preparedness and Crisis Response Fora",
-    "organization": "U.S. Mission to Japan",
-    "category": "climate",
+    "id": "grantsgov-362383",
+    "title": "PD ANNUAL PROGRAM STATEMENT",
+    "organization": "U.S. Mission to Bolivia ",
+    "category": "culture",
     "match": 55,
-    "deadline": "08/10/2026",
+    "deadline": "08/15/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2323,7 +2353,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363146",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362383",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2340,12 +2370,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362383",
-    "title": "PD ANNUAL PROGRAM STATEMENT",
-    "organization": "U.S. Mission to Bolivia ",
-    "category": "culture",
+    "id": "grantsgov-361333",
+    "title": "Pathways to Enable Secure Open-Source Ecosystems",
+    "organization": "U.S. National Science Foundation",
+    "category": "digital",
     "match": 55,
-    "deadline": "08/15/2026",
+    "deadline": "09/01/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2353,7 +2383,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362383",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/361333",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2610,36 +2640,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363154",
-    "title": "SBA WBC Modernization Initiative FY26",
-    "organization": "Small Business Administration",
-    "category": "caribbean",
-    "match": 55,
-    "deadline": "08/10/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Low",
-    "effort": "Medium",
-    "readiness": 76,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363154",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363014",
     "title": "Scholarly Editions and Translations",
     "organization": "National Endowment for the Humanities",
@@ -2714,6 +2714,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/331415",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-362754",
+    "title": "Southwest Border Resource Protection Program",
+    "organization": "National Park Service",
+    "category": "caribbean",
+    "match": 55,
+    "deadline": "09/08/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362754",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2864,6 +2894,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/334326",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363102",
+    "title": "U.S Wildland Fire Service BLM-National Interagency Fire Center (NIFC) Joint Fire Science Program (JFSP) Regional Fire Science Exchange Announcement",
+    "organization": "Bureau of Land Management",
+    "category": "caribbean",
+    "match": 55,
+    "deadline": "09/17/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363102",
     "badges": [
       "Live Source",
       "Verify Eligibility",
