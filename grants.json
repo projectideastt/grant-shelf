@@ -360,6 +360,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363602",
+    "title": "BJA FY 2026 Public Safety and Mental Health Initiative",
+    "organization": "Bureau of Justice Assistance",
+    "category": "health",
+    "match": 59,
+    "deadline": "09/25/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363602",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-361448",
     "title": "BRAIN Initiative: Data Archives for the BRAIN Initiative",
     "organization": "National Institutes of Health",
@@ -674,6 +704,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/359138",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363275",
+    "title": "HIV Care Grant Program - Part B States/Territories Formula and AIDS Drug Assistance Program Formula and AIDS Drug Assistance Program Supplemental Awards: Pacific Islands Jurisdictions",
+    "organization": "Health Resources and Services Administration",
+    "category": "health",
+    "match": 59,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363275",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1124,36 +1184,6 @@
     "readiness": 76,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/331311",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363524",
-    "title": "Seabed Mapping, Exploration, and Characterization in the Pacific",
-    "organization": "Bureau of Oceans - Int. Environmental - Scientific",
-    "category": "climate",
-    "match": 59,
-    "deadline": "08/14/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363524",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1890,36 +1920,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362788",
-    "title": "FY26 Bureau of Land Management Cultural and Paleontological Resource Management - Bureau wide",
-    "organization": "Bureau of Land Management",
-    "category": "culture",
-    "match": 55,
-    "deadline": "08/14/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362788",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363355",
     "title": "FY26 Bureau of Land Management Plant Conservation and Restoration Management - Bureau wide",
     "organization": "Bureau of Land Management",
@@ -1964,36 +1964,6 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363304",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363117",
-    "title": "Fiscal Year 2026 National Earthquake Hazards Reduction Program Individual State Earthquake Assistance",
-    "organization": "Department of Homeland Security - FEMA",
-    "category": "caribbean",
-    "match": 55,
-    "deadline": "08/14/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363117",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2144,6 +2114,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/358397",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363301",
+    "title": "Legal Competency and Training Program in Southeast Asia and the Pacific",
+    "organization": "Bureau of East Asian and Pacific Affairs ",
+    "category": "youth",
+    "match": 55,
+    "deadline": "08/25/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363301",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2490,36 +2490,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363085",
-    "title": "Public Diplomacy Bujumbura Small Grants Program",
-    "organization": "U.S. Mission to Burundi",
-    "category": "health",
-    "match": 55,
-    "deadline": "08/14/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Low",
-    "effort": "Medium",
-    "readiness": 76,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363085",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363224",
     "title": "ROSES25: A.13 Accelerating Earth Solutions",
     "organization": "NASA Headquarters",
@@ -2643,7 +2613,7 @@
     "id": "grantsgov-350230",
     "title": "Research in the Formation of Engineers",
     "organization": "U.S. National Science Foundation",
-    "category": "youth",
+    "category": "culture",
     "match": 55,
     "deadline": "Check source",
     "currency": "USD",
