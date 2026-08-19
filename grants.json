@@ -1080,36 +1080,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-361986",
-    "title": "Personal Responsibility Education Innovative Strategies (PREIS)",
-    "organization": "Administration for Children & Families - ACYF/FYSB",
-    "category": "youth",
-    "match": 59,
-    "deadline": "08/18/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361986",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-355831",
     "title": "Pregnancy and Postpartum Hypertension Control Initiative",
     "organization": "Office of the Assistant Secretary for Health",
@@ -1304,6 +1274,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/361987",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-356309",
+    "title": "Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program (UE5/T32)",
+    "organization": "National Institutes of Health",
+    "category": "youth",
+    "match": 59,
+    "deadline": "01/25/2027",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/356309",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1891,7 +1891,7 @@
   },
   {
     "id": "grantsgov-306169",
-    "title": "Engineering for Civil Infrastructure",
+    "title": "Engineering for Civil Infrastructure (ECI)",
     "organization": "U.S. National Science Foundation",
     "category": "climate",
     "match": 55,
@@ -2131,7 +2131,7 @@
   },
   {
     "id": "grantsgov-358397",
-    "title": "Infrastructure Systems and People",
+    "title": "Infrastructure Systems and People (ISP)",
     "organization": "U.S. National Science Foundation",
     "category": "climate",
     "match": 55,
@@ -2221,7 +2221,7 @@
   },
   {
     "id": "grantsgov-345354",
-    "title": "Manufacturing Systems Integration",
+    "title": "Manufacturing Systems Integration (MSI)",
     "organization": "U.S. National Science Foundation",
     "category": "digital",
     "match": 55,
@@ -2251,7 +2251,7 @@
   },
   {
     "id": "grantsgov-358682",
-    "title": "Mind, Machine and Motor Nexus",
+    "title": "Mind, Machine and Motor Nexus (M3X)",
     "organization": "U.S. National Science Foundation",
     "category": "climate",
     "match": 55,
@@ -2384,36 +2384,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363318",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-361333",
-    "title": "Pathways to Enable Secure Open-Source Ecosystems",
-    "organization": "U.S. National Science Foundation",
-    "category": "digital",
-    "match": 55,
-    "deadline": "09/01/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361333",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -3074,6 +3044,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/329436",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363645",
+    "title": "University-led Networks for Innovation, Technology, and Expertise (UNITE)",
+    "organization": "U.S. Mission to Saudi Arabia",
+    "category": "digital",
+    "match": 55,
+    "deadline": "09/17/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363645",
     "badges": [
       "Live Source",
       "Verify Eligibility",
