@@ -120,6 +120,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363663",
+    "title": "Food and Agriculture Defense Initiative Extension Disaster Education Network",
+    "organization": "National Institute of Food and Agriculture",
+    "category": "climate",
+    "match": 63,
+    "deadline": "09/21/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363663",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-360645",
     "title": "Interdisciplinary Research Networks to Advance Biomedical Research on Resilience and Health Optimization",
     "organization": "National Institutes of Health",
@@ -810,6 +840,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363657",
+    "title": "Innovative Water Infrastructure Workforce Development Grant",
+    "organization": "Environmental Protection Agency",
+    "category": "climate",
+    "match": 59,
+    "deadline": "10/05/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363657",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-357710",
     "title": "Institutional Training Programs to Advance Translational Research on Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) (T32 Clinical Trial Not Allowed)",
     "organization": "National Institutes of Health",
@@ -1170,36 +1230,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-356909",
-    "title": "Screening and Functional Validation of Genomic Variants Associated with Human Congenital Anomalies (R01 Clinical Trial Not Allowed)",
-    "organization": "National Institutes of Health",
-    "category": "health",
-    "match": 59,
-    "deadline": "01/07/2028",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/356909",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-358552",
     "title": "Short Courses on Innovative Methodologies and Approaches in the Behavioral and Social Sciences (R25 Clinical Trials Not Allowed)",
     "organization": "National Institutes of Health",
@@ -1274,36 +1304,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/361987",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-356309",
-    "title": "Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program (UE5/T32)",
-    "organization": "National Institutes of Health",
-    "category": "youth",
-    "match": 59,
-    "deadline": "01/25/2027",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/356309",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1890,36 +1890,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-306169",
-    "title": "Engineering for Civil Infrastructure (ECI)",
-    "organization": "U.S. National Science Foundation",
-    "category": "climate",
-    "match": 55,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/306169",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363541",
     "title": "Enhancing and Supporting the Network of American Spaces in Armenia",
     "organization": "U.S. Mission to Armenia",
@@ -2130,36 +2100,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-358397",
-    "title": "Infrastructure Systems and People (ISP)",
-    "organization": "U.S. National Science Foundation",
-    "category": "climate",
-    "match": 55,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/358397",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363301",
     "title": "Legal Competency and Training Program in Southeast Asia and the Pacific",
     "organization": "Bureau of East Asian and Pacific Affairs ",
@@ -2190,6 +2130,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363514",
+    "title": "Lewis-Houghton Civics and Democracy Initiative: New Awards for 2027-2029",
+    "organization": "Library of Congress",
+    "category": "culture",
+    "match": 55,
+    "deadline": "09/18/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363514",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-359104",
     "title": "Louis Stokes Alliances for Minority Participation",
     "organization": "U.S. National Science Foundation",
@@ -2204,66 +2174,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/359104",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-345354",
-    "title": "Manufacturing Systems Integration (MSI)",
-    "organization": "U.S. National Science Foundation",
-    "category": "digital",
-    "match": 55,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/345354",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-358682",
-    "title": "Mind, Machine and Motor Nexus (M3X)",
-    "organization": "U.S. National Science Foundation",
-    "category": "climate",
-    "match": 55,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/358682",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2384,6 +2294,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363318",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-361333",
+    "title": "Pathways to Enable Secure Open-Source Ecosystems",
+    "organization": "U.S. National Science Foundation",
+    "category": "digital",
+    "match": 55,
+    "deadline": "09/01/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/361333",
     "badges": [
       "Live Source",
       "Verify Eligibility",
