@@ -540,36 +540,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363239",
-    "title": "Education and Outreach to Tribal Producers through the Tribal Food Safety Alliance",
-    "organization": "Food and Drug Administration",
-    "category": "youth",
-    "match": 59,
-    "deadline": "08/20/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363239",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-357434",
     "title": "Effectiveness Trials to Test Mental Health System Interventions (R61/R33 Clinical Trial Required)",
     "organization": "National Institutes of Health",
@@ -720,20 +690,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-359138",
-    "title": "Forecast to Publish a Notice of Funding Opportunity Announcement for Addressing Determinants of Health Disparities Among Rural Populations (R01 - Clinical Trial Optional)",
-    "organization": "National Institutes of Health",
-    "category": "health",
+    "id": "grantsgov-348923",
+    "title": "Fiscal Year (FY) 2022-2026 Advanced Digital Construction Management Systems (ADCMS)",
+    "organization": "DOT Federal Highway Administration ",
+    "category": "digital",
     "match": 59,
     "deadline": "Check source",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "Medium",
+    "risk": "High",
     "effort": "Medium",
-    "readiness": 62,
+    "readiness": 45,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/359138",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/348923",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -750,9 +720,9 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363275",
-    "title": "HIV Care Grant Program - Part B States/Territories Formula and AIDS Drug Assistance Program Formula and AIDS Drug Assistance Program Supplemental Awards: Pacific Islands Jurisdictions",
-    "organization": "Health Resources and Services Administration",
+    "id": "grantsgov-359138",
+    "title": "Forecast to Publish a Notice of Funding Opportunity Announcement for Addressing Determinants of Health Disparities Among Rural Populations (R01 - Clinical Trial Optional)",
+    "organization": "National Institutes of Health",
     "category": "health",
     "match": 59,
     "deadline": "Check source",
@@ -763,7 +733,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363275",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/359138",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1230,6 +1200,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-356909",
+    "title": "Screening and Functional Validation of Genomic Variants Associated with Human Congenital Anomalies (R01 Clinical Trial Not Allowed)",
+    "organization": "National Institutes of Health",
+    "category": "health",
+    "match": 59,
+    "deadline": "01/07/2028",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/356909",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-358552",
     "title": "Short Courses on Innovative Methodologies and Approaches in the Behavioral and Social Sciences (R25 Clinical Trials Not Allowed)",
     "organization": "National Institutes of Health",
@@ -1304,6 +1304,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/361987",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-356309",
+    "title": "Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program (UE5/T32)",
+    "organization": "National Institutes of Health",
+    "category": "youth",
+    "match": 59,
+    "deadline": "01/25/2027",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/356309",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1620,6 +1650,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-356538",
+    "title": "Atmosphere Cluster",
+    "organization": "U.S. National Science Foundation",
+    "category": "climate",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/356538",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-363347",
     "title": "Building Skills, Strengthening Communities, and Advancing Innovation in Northwest Mexico",
     "organization": "U.S. Mission to Mexico",
@@ -1770,20 +1830,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363249",
-    "title": "CyberNext: Advance Cybersecurity and AI Readiness",
-    "organization": "U.S. Mission to Albania",
-    "category": "digital",
+    "id": "grantsgov-363672",
+    "title": "Cooperative Agreement for Affiliated Partner with the Hawaii- Pacific Islands Cooperative Ecosystem Studies Unit (CESU)",
+    "organization": "Geological Survey",
+    "category": "caribbean",
     "match": 55,
-    "deadline": "08/20/2026",
+    "deadline": "09/20/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363249",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363672",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1890,6 +1950,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-348258",
+    "title": "Energy, Power, Control, and Networks",
+    "organization": "U.S. National Science Foundation",
+    "category": "digital",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/348258",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-363541",
     "title": "Enhancing and Supporting the Network of American Spaces in Armenia",
     "organization": "U.S. Mission to Armenia",
@@ -1964,66 +2054,6 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363304",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363188",
-    "title": "Fiscal Year 2026 National Incident Management System (NIMS)",
-    "organization": "Department of Homeland Security - FEMA",
-    "category": "climate",
-    "match": 55,
-    "deadline": "08/20/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363188",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363247",
-    "title": "GameON &ndash; U.S.-Albania E-Sports and Innovation",
-    "organization": "U.S. Mission to Albania",
-    "category": "digital",
-    "match": 55,
-    "deadline": "08/20/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363247",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2174,6 +2204,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/359104",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363441",
+    "title": "Media Literacy and Capacity Building Workshop Series",
+    "organization": "U.S. Mission to Indonesia",
+    "category": "digital",
+    "match": 55,
+    "deadline": "09/02/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363441",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2924,36 +2984,6 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/356119",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363320",
-    "title": "U.S.-Argentina Alumni Summit",
-    "organization": "U.S. Mission to Argentina",
-    "category": "digital",
-    "match": 55,
-    "deadline": "08/20/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363320",
     "badges": [
       "Live Source",
       "Verify Eligibility",
