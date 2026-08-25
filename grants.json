@@ -60,6 +60,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363694",
+    "title": "Children and Youth with Special Health Care Needs Research Network",
+    "organization": "Health Resources and Services Administration",
+    "category": "youth",
+    "match": 63,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363694",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-334092",
     "title": "Culture of Research and University Exchanges Prep program (CRUX) in One Health and Agricultural STEM",
     "organization": "U.S. Mission to Zimbabwe",
@@ -524,6 +554,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/355829",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363239",
+    "title": "Education and Outreach to Tribal Producers through the Tribal Food Safety Alliance",
+    "organization": "Food and Drug Administration",
+    "category": "youth",
+    "match": 59,
+    "deadline": "08/27/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363239",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1140,36 +1200,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-349976",
-    "title": "Population Assessment of Tobacco and Health (PATH) Study Biospecimen Access (X01)",
-    "organization": "National Institutes of Health",
-    "category": "health",
-    "match": 59,
-    "deadline": "10/30/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/349976",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-355831",
     "title": "Pregnancy and Postpartum Hypertension Control Initiative",
     "organization": "Office of the Assistant Secretary for Health",
@@ -1244,36 +1274,6 @@
     "readiness": 76,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/331311",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-356909",
-    "title": "Screening and Functional Validation of Genomic Variants Associated with Human Congenital Anomalies (R01 Clinical Trial Not Allowed)",
-    "organization": "National Institutes of Health",
-    "category": "health",
-    "match": 59,
-    "deadline": "01/07/2028",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/356909",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1514,36 +1514,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363440",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-362839",
-    "title": "Affordable Housing and Supportive Services Demonstration",
-    "organization": "Administration for Children and Families - OCS",
-    "category": "health",
-    "match": 55,
-    "deadline": "08/24/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362839",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2130,7 +2100,7 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363301",
+    "id": "grantsgov-363704",
     "title": "Legal Competency and Training Program in Southeast Asia and the Pacific",
     "organization": "Bureau of East Asian and Pacific Affairs ",
     "category": "youth",
@@ -2143,7 +2113,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363301",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363704",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2234,6 +2204,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363441",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363709",
+    "title": "Mission Australia APS, 2026",
+    "organization": "U.S. Mission to New Zealand",
+    "category": "caribbean",
+    "match": 55,
+    "deadline": "09/20/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363709",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2504,66 +2504,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362717",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-362910",
-    "title": "Regional Conservation Partnership Program (RCPP) Alternative Funding Arrangements (AFA) for Federal fiscal year (FY) 2026",
-    "organization": "Natural Resources Conservation Service",
-    "category": "climate",
-    "match": 55,
-    "deadline": "08/24/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "Medium",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362910",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-362909",
-    "title": "Regional Conservation Partnership Program (RCPP) Classic for federal fiscal year (FY) 2026",
-    "organization": "Natural Resources Conservation Service",
-    "category": "climate",
-    "match": 55,
-    "deadline": "08/24/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "Medium",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362909",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2954,6 +2894,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/325599",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363708",
+    "title": "U.S. Mission to Australia 2026 Annual Program Statement",
+    "organization": "U.S. Mission to Australia",
+    "category": "caribbean",
+    "match": 55,
+    "deadline": "09/20/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363708",
     "badges": [
       "Live Source",
       "Verify Eligibility",
