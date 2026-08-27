@@ -540,6 +540,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-361929",
+    "title": "Competitive Personal Responsibility Education Program",
+    "organization": "Administration for Children & Families - ACYF/FYSB",
+    "category": "youth",
+    "match": 59,
+    "deadline": "08/31/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/361929",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-355829",
     "title": "Coordinating Center for Language Access Services",
     "organization": "Office of the Assistant Secretary for Health",
@@ -575,7 +605,7 @@
     "organization": "Food and Drug Administration",
     "category": "youth",
     "match": 59,
-    "deadline": "08/27/2026",
+    "deadline": "08/28/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -644,6 +674,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362097",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363728",
+    "title": "Exploring and Enhancing Outdoor and Heritage Tourism in the Chesapeake Bay Watershed",
+    "organization": "National Park Service",
+    "category": "culture",
+    "match": 59,
+    "deadline": "11/04/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363728",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1380,36 +1440,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-356309",
-    "title": "Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program (UE5/T32)",
-    "organization": "National Institutes of Health",
-    "category": "youth",
-    "match": 59,
-    "deadline": "01/25/2027",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/356309",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363054",
     "title": "World Trade Center Health Program Mentored Research Scientist Career Development Award (K01)",
     "organization": "Centers for Disease Control and Prevention - ERA",
@@ -1544,6 +1574,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/322314",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363723",
+    "title": "Annual Program Statement",
+    "organization": "U.S. Mission to Zimbabwe",
+    "category": "digital",
+    "match": 55,
+    "deadline": "09/13/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363723",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1711,7 +1771,7 @@
   },
   {
     "id": "grantsgov-348375",
-    "title": "Centers of Research Excellence in Science and Technology",
+    "title": "Centers of Research Excellence in Science and Technology (CREST)",
     "organization": "U.S. National Science Foundation",
     "category": "digital",
     "match": 55,
@@ -2010,6 +2070,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363691",
+    "title": "F26AS00071 Cooperative Endangered Species Conservation Fund: Habitat Conservation Plan Land Acquisition Grants",
+    "organization": "Fish and Wildlife Service",
+    "category": "climate",
+    "match": 55,
+    "deadline": "10/30/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363691",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-363355",
     "title": "FY26 Bureau of Land Management Plant Conservation and Restoration Management - Bureau wide",
     "organization": "Bureau of Land Management",
@@ -2100,36 +2190,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363716",
-    "title": "Legal Competency and Training Program in Southeast Asia and the Pacific",
-    "organization": "Bureau of East Asian and Pacific Affairs ",
-    "category": "youth",
-    "match": 55,
-    "deadline": "08/26/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363716",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363514",
     "title": "Lewis-Houghton Civics and Democracy Initiative: New Awards for 2027-2029",
     "organization": "Library of Congress",
@@ -2174,36 +2234,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/359104",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363441",
-    "title": "Media Literacy and Capacity Building Workshop Series",
-    "organization": "U.S. Mission to Indonesia",
-    "category": "digital",
-    "match": 55,
-    "deadline": "09/02/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363441",
     "badges": [
       "Live Source",
       "Verify Eligibility",
