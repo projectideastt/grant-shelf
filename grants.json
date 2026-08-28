@@ -750,36 +750,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363260",
-    "title": "FY26 Safer Outcomes Program",
-    "organization": "Community Oriented Policing Services",
-    "category": "health",
-    "match": 59,
-    "deadline": "08/27/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Low",
-    "effort": "Medium",
-    "readiness": 76,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363260",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363223",
     "title": "FY27 Brownfields Job Training (JT) Grants",
     "organization": "Environmental Protection Agency",
@@ -854,6 +824,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/359138",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-357421",
+    "title": "Full-Scale Hybrid Effectiveness-Implementation Trials for Mental Health Interventions (R01 - Clinical Trial Required)",
+    "organization": "National Institutes of Health",
+    "category": "health",
+    "match": 59,
+    "deadline": "10/15/2027",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/357421",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1440,6 +1440,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-356309",
+    "title": "Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program (UE5/T32)",
+    "organization": "National Institutes of Health",
+    "category": "youth",
+    "match": 59,
+    "deadline": "01/25/2027",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/356309",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-363054",
     "title": "World Trade Center Health Program Mentored Research Scientist Career Development Award (K01)",
     "organization": "Centers for Disease Control and Prevention - ERA",
@@ -1724,36 +1754,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/356538",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363347",
-    "title": "Building Skills, Strengthening Communities, and Advancing Innovation in Northwest Mexico",
-    "organization": "U.S. Mission to Mexico",
-    "category": "youth",
-    "match": 55,
-    "deadline": "08/27/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363347",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2190,12 +2190,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363514",
-    "title": "Lewis-Houghton Civics and Democracy Initiative: New Awards for 2027-2029",
-    "organization": "Library of Congress",
-    "category": "culture",
+    "id": "grantsgov-359104",
+    "title": "LOUIS STOKES ALLIANCES FOR MINORITY PARTICIPATION (LSAMP)",
+    "organization": "U.S. National Science Foundation",
+    "category": "youth",
     "match": 55,
-    "deadline": "09/18/2026",
+    "deadline": "Check source",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2203,7 +2203,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363514",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/359104",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2220,12 +2220,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-359104",
-    "title": "Louis Stokes Alliances for Minority Participation",
-    "organization": "U.S. National Science Foundation",
-    "category": "youth",
+    "id": "grantsgov-363514",
+    "title": "Lewis-Houghton Civics and Democracy Initiative: New Awards for 2027-2029",
+    "organization": "Library of Congress",
+    "category": "culture",
     "match": 55,
-    "deadline": "11/20/2026",
+    "deadline": "09/18/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2233,7 +2233,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/359104",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363514",
     "badges": [
       "Live Source",
       "Verify Eligibility",
