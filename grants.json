@@ -600,12 +600,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363239",
-    "title": "Education and Outreach to Tribal Producers through the Tribal Food Safety Alliance",
-    "organization": "Food and Drug Administration",
-    "category": "youth",
+    "id": "grantsgov-348830",
+    "title": "DoW&rsquo;s Energy, Installations, and Environment Innovation Partners Programs",
+    "organization": "Washington Headquarters Services",
+    "category": "climate",
     "match": 59,
-    "deadline": "08/28/2026",
+    "deadline": "01/08/2028",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -613,7 +613,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363239",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/348830",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1334,6 +1334,36 @@
     "readiness": 76,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/331311",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-356909",
+    "title": "Screening and Functional Validation of Genomic Variants Associated with Human Congenital Anomalies (R01 Clinical Trial Not Allowed)",
+    "organization": "National Institutes of Health",
+    "category": "health",
+    "match": 59,
+    "deadline": "01/07/2028",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/356909",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2100,6 +2130,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363306",
+    "title": "F27AS00008-NAWCA 2027-1 US Standard Grants",
+    "organization": "Fish and Wildlife Service",
+    "category": "caribbean",
+    "match": 55,
+    "deadline": "09/25/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363306",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-363355",
     "title": "FY26 Bureau of Land Management Plant Conservation and Restoration Management - Bureau wide",
     "organization": "Bureau of Land Management",
@@ -2280,36 +2340,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363399",
-    "title": "NATIVE Act Tribal Tourism Cooperative Agreement",
-    "organization": "Bureau of Indian Affairs",
-    "category": "culture",
-    "match": 55,
-    "deadline": "08/28/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363399",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363189",
     "title": "NIOSH National Center of Excellence for the Prevention of Childhood Agricultural Injury (U54)",
     "organization": "Centers for Disease Control and Prevention - ERA",
@@ -2354,36 +2384,6 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/345083",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363318",
-    "title": "National Disaster Coverage Training for Indonesian Journalists",
-    "organization": "U.S. Mission to Indonesia",
-    "category": "climate",
-    "match": 55,
-    "deadline": "08/28/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363318",
     "badges": [
       "Live Source",
       "Verify Eligibility",
