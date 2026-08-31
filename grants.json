@@ -300,36 +300,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363293",
-    "title": "American Innovation Hub: AI &amp; Digital Skills for the Creative &amp; Tech Economy",
-    "organization": "U.S. Mission to Indonesia",
-    "category": "youth",
-    "match": 59,
-    "deadline": "08/30/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363293",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-359646",
     "title": "Animal and Biological Material Resource Centers (P40 Clinical Trial Not Allowed)",
     "organization": "National Institutes of Health",
@@ -2310,6 +2280,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363441",
+    "title": "Media Literacy and Capacity Building Workshop Series",
+    "organization": "U.S. Mission to Indonesia",
+    "category": "digital",
+    "match": 55,
+    "deadline": "09/02/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363441",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-363709",
     "title": "Mission Australia APS, 2026",
     "organization": "U.S. Mission to New Zealand",
@@ -2984,6 +2984,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/356119",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-356412",
+    "title": "Unemployment Insurance Integrity Center of Excellence Operations",
+    "organization": "Employment and Training Administration",
+    "category": "youth",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/356412",
     "badges": [
       "Live Source",
       "Verify Eligibility",
