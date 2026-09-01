@@ -240,6 +240,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-360451",
+    "title": "Translational Center for Accelerating the Use of Digital Health Technologies Data in AD/ADRD Research",
+    "organization": "National Institutes of Health",
+    "category": "health",
+    "match": 63,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/360451",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-362945",
     "title": "AIDS Research Center on Mental Health and HIV/AIDS (P30 Clinical Trial Optional)",
     "organization": "National Institutes of Health",
@@ -284,6 +314,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/359201",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-348303",
+    "title": "Advancing Youth Activism and Engagement FY2023",
+    "organization": "U.S. Mission to Albania",
+    "category": "youth",
+    "match": 59,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Low",
+    "effort": "Medium",
+    "readiness": 76,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/348303",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -450,36 +510,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363024",
-    "title": "Brookwood-Sago Mine Safety Grants",
-    "organization": "Mine Safety and Health Administration",
-    "category": "health",
-    "match": 59,
-    "deadline": "08/31/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363024",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-103313",
     "title": "Climate Program Office for FY 2012",
     "organization": "Department of Commerce",
@@ -494,36 +524,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/103313",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-361929",
-    "title": "Competitive Personal Responsibility Education Program",
-    "organization": "Administration for Children & Families - ACYF/FYSB",
-    "category": "youth",
-    "match": 59,
-    "deadline": "08/31/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361929",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1410,36 +1410,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-361987",
-    "title": "Tribal Personal Responsibility Education Program (Tribal PREP)",
-    "organization": "Administration for Children & Families - ACYF/FYSB",
-    "category": "youth",
-    "match": 59,
-    "deadline": "08/31/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361987",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-356309",
     "title": "Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program (UE5/T32)",
     "organization": "National Institutes of Health",
@@ -2190,6 +2160,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363526",
+    "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) &ndash; RESEARCH COLLABORATION (RC)",
+    "organization": "Air Force Office of Scientific Research",
+    "category": "caribbean",
+    "match": 55,
+    "deadline": "04/05/2027",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363526",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-356536",
     "title": "Geospace Cluster",
     "organization": "U.S. National Science Foundation",
@@ -2401,11 +2401,11 @@
   },
   {
     "id": "grantsgov-361333",
-    "title": "Pathways to Enable Secure Open-Source Ecosystems",
+    "title": "Pathways to Enable Secure Open-Source Ecosystems (PESOSE)",
     "organization": "U.S. National Science Foundation",
     "category": "digital",
     "match": 55,
-    "deadline": "09/01/2026",
+    "deadline": "03/02/2027",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2760,36 +2760,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-362900",
-    "title": "The 2027 YSEALI Regional Workshop: Securing Supply Chains",
-    "organization": "U.S. Mission to Indonesia",
-    "category": "digital",
-    "match": 55,
-    "deadline": "08/31/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362900",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-344608",
     "title": "Training-based Workforce Development for Advanced Cyberinfrastructure  (CyberTraining)",
     "organization": "U.S. National Science Foundation",
@@ -2821,11 +2791,11 @@
   },
   {
     "id": "grantsgov-334326",
-    "title": "Tribal Colleges and Universities Program",
+    "title": "Tribal Colleges and Universities Program (TCUP)",
     "organization": "U.S. National Science Foundation",
     "category": "digital",
     "match": 55,
-    "deadline": "09/01/2026",
+    "deadline": "10/14/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2864,6 +2834,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363102",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-352290",
+    "title": "U.S. Embassy Djibouti PDS Annual Program Statement",
+    "organization": "U.S. Mission to Djibouti",
+    "category": "youth",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/352290",
     "badges": [
       "Live Source",
       "Verify Eligibility",
