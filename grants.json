@@ -300,36 +300,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-348303",
-    "title": "Advancing Youth Activism and Engagement FY2023",
-    "organization": "U.S. Mission to Albania",
-    "category": "youth",
-    "match": 59,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Low",
-    "effort": "Medium",
-    "readiness": 76,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/348303",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-361238",
     "title": "Artificial Intelligence and Cybersecurity Education Innovation and Scholarship for Service (CyberAI SFS)",
     "organization": "U.S. National Science Foundation",
@@ -750,6 +720,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-361334",
+    "title": "HEAL Initiative: Program to Reveal and Evaluate Cells-to-gene Information that Specify Intricacies, Origins and the Nature of (PRECISION) Human Pain Network",
+    "organization": "National Institutes of Health",
+    "category": "health",
+    "match": 59,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/361334",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-363275",
     "title": "HIV Care Grant Program - Part B States/Territories Formula and AIDS Drug Assistance Program Formula and AIDS Drug Assistance Program Supplemental Awards: Pacific Islands Jurisdictions",
     "organization": "Health Resources and Services Administration",
@@ -914,6 +914,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/357580",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363863",
+    "title": "Limited Competition: Tribal Undergraduate and Graduate Research Training and Leadership Experiences (TURTLE) Program",
+    "organization": "National Institutes of Health",
+    "category": "youth",
+    "match": 59,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363863",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1874,6 +1904,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/358004",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363866",
+    "title": "Data Science Corps (DSC)",
+    "organization": "U.S. National Science Foundation",
+    "category": "digital",
+    "match": 55,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363866",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -3000,36 +3060,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-352290",
-    "title": "U.S. Embassy Djibouti PDS Annual Program Statement",
-    "organization": "U.S. Mission to Djibouti",
-    "category": "youth",
-    "match": 55,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/352290",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-358783",
     "title": "U.S. Embassy Luanda Public Diplomacy Section Request for a Full Proposal Application",
     "organization": "U.S. Mission to Angola",
@@ -3120,6 +3150,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363864",
+    "title": "UI Integrity Center of Excellence Operations",
+    "organization": "Employment and Training Administration",
+    "category": "youth",
+    "match": 55,
+    "deadline": "09/25/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363864",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-356412",
     "title": "Unemployment Insurance Integrity Center of Excellence Operations",
     "organization": "Employment and Training Administration",
@@ -3164,36 +3224,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/329436",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363645",
-    "title": "University-led Networks for Innovation, Technology, and Expertise (UNITE)",
-    "organization": "U.S. Mission to Saudi Arabia",
-    "category": "digital",
-    "match": 55,
-    "deadline": "09/14/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363645",
     "badges": [
       "Live Source",
       "Verify Eligibility",
