@@ -2640,6 +2640,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-362715",
+    "title": "Outdoor Recreation Legacy Partnership Program (ORLP) Recurring Notice 5 Year",
+    "organization": "National Park Service",
+    "category": "caribbean",
+    "match": 55,
+    "deadline": "11/01/2030",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/362715",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-361333",
     "title": "Pathways to Enable Secure Open-Source Ecosystems (PESOSE)",
     "organization": "U.S. National Science Foundation",
@@ -3014,36 +3044,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/334326",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363102",
-    "title": "U.S Wildland Fire Service BLM-National Interagency Fire Center (NIFC) Joint Fire Science Program (JFSP) Regional Fire Science Exchange Announcement",
-    "organization": "Bureau of Land Management",
-    "category": "caribbean",
-    "match": 55,
-    "deadline": "09/17/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363102",
     "badges": [
       "Live Source",
       "Verify Eligibility",
