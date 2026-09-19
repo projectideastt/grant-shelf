@@ -660,36 +660,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363260",
-    "title": "FY26 Safer Outcomes Program",
-    "organization": "Community Oriented Policing Services",
-    "category": "health",
-    "match": 59,
-    "deadline": "09/18/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Low",
-    "effort": "Medium",
-    "readiness": 76,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363260",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363223",
     "title": "FY27 Brownfields Job Training (JT) Grants",
     "organization": "Environmental Protection Agency",
@@ -764,6 +734,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/359138",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-357421",
+    "title": "Full-Scale Hybrid Effectiveness-Implementation Trials for Mental Health Interventions (R01 - Clinical Trial Required)",
+    "organization": "National Institutes of Health",
+    "category": "health",
+    "match": 59,
+    "deadline": "10/15/2027",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/357421",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2011,7 +2011,7 @@
   },
   {
     "id": "grantsgov-348258",
-    "title": "Energy, Power, Control, and Networks",
+    "title": "Energy, Power, Control, and Networks (EPCN)",
     "organization": "U.S. National Science Foundation",
     "category": "digital",
     "match": 55,
@@ -2040,12 +2040,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363180",
-    "title": "F26AS00051_FY 2026 Competitive State Wildlife Grant (C-SWG) Program_Funding Opportunity Announcement",
+    "id": "grantsgov-363856",
+    "title": "F26AS00030 Cooperative Endangered Species Conservation Fund: Recovery Land Acquisition Grant Program",
     "organization": "Fish and Wildlife Service",
-    "category": "caribbean",
+    "category": "climate",
     "match": 55,
-    "deadline": "09/18/2026",
+    "deadline": "11/20/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2053,7 +2053,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363180",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363856",
     "badges": [
       "Live Source",
       "Verify Eligibility",
