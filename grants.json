@@ -360,36 +360,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363637",
-    "title": "BJA FY 2026 Second Chance Act Improving Reentry Education and Employment Outcomes",
-    "organization": "Bureau of Justice Assistance",
-    "category": "youth",
-    "match": 59,
-    "deadline": "09/24/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363637",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-361448",
     "title": "BRAIN Initiative: Data Archives for the BRAIN Initiative",
     "organization": "National Institutes of Health",
@@ -931,7 +901,7 @@
   },
   {
     "id": "grantsgov-357580",
-    "title": "Life and Environments Through Time",
+    "title": "Life and Environments Through Time (LET)",
     "organization": "U.S. National Science Foundation",
     "category": "climate",
     "match": 59,
@@ -1861,7 +1831,7 @@
   },
   {
     "id": "grantsgov-356538",
-    "title": "Atmosphere Cluster",
+    "title": "Atmosphere Cluster (AGS-AC)",
     "organization": "U.S. National Science Foundation",
     "category": "climate",
     "match": 55,
@@ -1934,6 +1904,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363323",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363920",
+    "title": "Easement Restoration and Stewardship",
+    "organization": "Natural Resources Conservation Service",
+    "category": "climate",
+    "match": 55,
+    "deadline": "11/19/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363920",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2101,7 +2101,7 @@
   },
   {
     "id": "grantsgov-356536",
-    "title": "Geospace Cluster",
+    "title": "Geospace Cluster (AGS-GC)",
     "organization": "U.S. National Science Foundation",
     "category": "climate",
     "match": 55,
@@ -2703,7 +2703,7 @@
     "id": "grantsgov-362717",
     "title": "Readiness and Recreation Initiative (RARI) &ndash; Recurring 5 Year Notice",
     "organization": "National Park Service",
-    "category": "caribbean",
+    "category": "climate",
     "match": 55,
     "deadline": "11/30/2030",
     "currency": "USD",
@@ -3181,7 +3181,7 @@
   },
   {
     "id": "grantsgov-357579",
-    "title": "Water, Landscape, and Critical Zone Processes",
+    "title": "Water, Landscape, and Critical Zone Processes (WaLCZ)",
     "organization": "U.S. National Science Foundation",
     "category": "climate",
     "match": 55,
