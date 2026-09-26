@@ -180,6 +180,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-355417",
+    "title": "Occupational Safety and Health Education and Research Centers (T42)",
+    "organization": "Centers for Disease Control and Prevention - ERA",
+    "category": "youth",
+    "match": 63,
+    "deadline": "10/26/2028",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/355417",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-360451",
     "title": "Translational Center for Accelerating the Use of Digital Health Technologies Data in AD/ADRD Research",
     "organization": "National Institutes of Health",
@@ -330,12 +360,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363602",
-    "title": "BJA FY 2026 Public Safety and Mental Health Initiative",
-    "organization": "Bureau of Justice Assistance",
+    "id": "grantsgov-361448",
+    "title": "BRAIN Initiative: Data Archives for the BRAIN Initiative",
+    "organization": "National Institutes of Health",
     "category": "health",
     "match": 59,
-    "deadline": "09/25/2026",
+    "deadline": "Check source",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -343,7 +373,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363602",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/361448",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -360,9 +390,9 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-361448",
-    "title": "BRAIN Initiative: Data Archives for the BRAIN Initiative",
-    "organization": "National Institutes of Health",
+    "id": "grantsgov-363812",
+    "title": "Children's Mental Health Initiative",
+    "organization": "Substance Abuse and Mental Health Services Adminis",
     "category": "health",
     "match": 59,
     "deadline": "Check source",
@@ -373,7 +403,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361448",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363812",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -824,36 +854,6 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363657",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-357710",
-    "title": "Institutional Training Programs to Advance Translational Research on Alzheimer's Disease (AD) and AD-Related Dementias (ADRD) (T32 Clinical Trial Not Allowed)",
-    "organization": "National Institutes of Health",
-    "category": "youth",
-    "match": 59,
-    "deadline": "09/25/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/357710",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2010,36 +2010,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363306",
-    "title": "F27AS00008-NAWCA 2027-1 US Standard Grants",
-    "organization": "Fish and Wildlife Service",
-    "category": "caribbean",
-    "match": 55,
-    "deadline": "09/25/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363306",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363355",
     "title": "FY26 Bureau of Land Management Plant Conservation and Restoration Management - Bureau wide",
     "organization": "Bureau of Land Management",
@@ -2084,6 +2054,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363526",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-363732",
+    "title": "FYs 2024 through 2026 - Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) Competitive Grant Program Notice of Funding Opportunity",
+    "organization": "DOT Federal Highway Administration ",
+    "category": "caribbean",
+    "match": 55,
+    "deadline": "10/09/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "Medium",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363732",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -3090,20 +3090,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363864",
-    "title": "UI Integrity Center of Excellence Operations",
-    "organization": "Employment and Training Administration",
+    "id": "grantsgov-363481",
+    "title": "U.S. National Science Foundation State and Regional Artificial Intelligence Infrastructure Hubs:",
+    "organization": "U.S. National Science Foundation",
     "category": "youth",
     "match": 55,
-    "deadline": "09/25/2026",
+    "deadline": "11/04/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363864",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363481",
     "badges": [
       "Live Source",
       "Verify Eligibility",
