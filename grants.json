@@ -1,35 +1,5 @@
 [
   {
-    "id": "grantsgov-355297",
-    "title": "National Cancer Institute Youth Enjoy Science Research Education Program (R25 Clinical Trial Not Allowed)",
-    "organization": "National Institutes of Health",
-    "category": "youth",
-    "match": 67,
-    "deadline": "09/28/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/355297",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-361169",
     "title": "Agriculture and Food Research Initiative Competitive Grants Program Education and Workforce Development",
     "organization": "National Institute of Food and Agriculture",
@@ -74,6 +44,36 @@
     "readiness": 45,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363694",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-334092",
+    "title": "Culture of Research and University Exchanges Prep program (CRUX) in One Health and Agricultural STEM",
+    "organization": "U.S. Mission to Zimbabwe",
+    "category": "health",
+    "match": 63,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/334092",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -614,36 +614,6 @@
     "readiness": 76,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/362787",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-348923",
-    "title": "Fiscal Year (FY) 2022-2026 Advanced Digital Construction Management Systems (ADCMS)",
-    "organization": "DOT Federal Highway Administration ",
-    "category": "digital",
-    "match": 59,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "Medium",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/348923",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1380,6 +1350,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363986",
+    "title": "Promoting Cancer Surveillance Workforce, Education, and Data Use",
+    "organization": "Centers for Disease Control - NCCDPHP",
+    "category": "youth",
+    "match": 59,
+    "deadline": "Check source",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363986",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-331311",
     "title": "Request for Information (RFI) No.  95332421K0004 - Community Engagement Services for the Solomon Islands Threshold Program",
     "organization": "Millennium Challenge Corporation",
@@ -2040,12 +2040,12 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363355",
-    "title": "FY26 Bureau of Land Management Plant Conservation and Restoration Management - Bureau wide",
-    "organization": "Bureau of Land Management",
+    "id": "grantsgov-347414",
+    "title": "FY 2023 Disaster Supplemental",
+    "organization": "Economic Development Administration",
     "category": "climate",
     "match": 55,
-    "deadline": "09/28/2026",
+    "deadline": "Check source",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
@@ -2053,7 +2053,7 @@
     "effort": "Medium",
     "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363355",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/347414",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2264,36 +2264,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363765",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363514",
-    "title": "Lewis-Houghton Civics and Democracy Initiative: New Awards for 2027-2029",
-    "organization": "Library of Congress",
-    "category": "culture",
-    "match": 55,
-    "deadline": "09/28/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363514",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2733,7 +2703,7 @@
     "id": "grantsgov-350230",
     "title": "Research in the Formation of Engineers",
     "organization": "U.S. National Science Foundation",
-    "category": "youth",
+    "category": "digital",
     "match": 55,
     "deadline": "Check source",
     "currency": "USD",
@@ -2791,11 +2761,11 @@
   },
   {
     "id": "grantsgov-357554",
-    "title": "Security, Privacy, and Trust in Cyberspace",
+    "title": "Security, Privacy, and Trust in Cyberspace (SaTC 2.0)",
     "organization": "U.S. National Science Foundation",
     "category": "digital",
     "match": 55,
-    "deadline": "09/28/2026",
+    "deadline": "01/25/2027",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
