@@ -1980,6 +1980,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-363992",
+    "title": "F26AS00023 FY2026 Prescott Marine Mammal Rescue and Response Grant Program",
+    "organization": "Fish and Wildlife Service",
+    "category": "caribbean",
+    "match": 55,
+    "deadline": "11/30/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363992",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-363856",
     "title": "F26AS00030 Cooperative Endangered Species Conservation Fund: Recovery Land Acquisition Grant Program",
     "organization": "Fish and Wildlife Service",
@@ -2100,20 +2130,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363732",
-    "title": "FYs 2024 through 2026 - Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) Competitive Grant Program Notice of Funding Opportunity",
-    "organization": "DOT Federal Highway Administration ",
-    "category": "caribbean",
+    "id": "grantsgov-363997",
+    "title": "Fiscal Year 2027 State Workforce Agency Unemployment Insurance Resource Planning Targets and Guidelines",
+    "organization": "Employment and Training Administration",
+    "category": "youth",
     "match": 55,
-    "deadline": "10/09/2026",
+    "deadline": "10/30/2026",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "High",
+    "risk": "Medium",
     "effort": "Medium",
-    "readiness": 45,
+    "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363732",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/363997",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2834,36 +2864,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/345645",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363847",
-    "title": "State Recreational Boating Safety (RBS) Grant Program",
-    "organization": "United States Coast Guard ",
-    "category": "caribbean",
-    "match": 55,
-    "deadline": "10/30/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363847",
     "badges": [
       "Live Source",
       "Verify Eligibility",
