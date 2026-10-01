@@ -180,36 +180,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-355417",
-    "title": "Occupational Safety and Health Education and Research Centers (T42)",
-    "organization": "Centers for Disease Control and Prevention - ERA",
-    "category": "youth",
-    "match": 63,
-    "deadline": "10/26/2028",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/355417",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-360451",
     "title": "Translational Center for Accelerating the Use of Digital Health Technologies Data in AD/ADRD Research",
     "organization": "National Institutes of Health",
@@ -1890,6 +1860,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-364016",
+    "title": "Cooperative Agreement for Affiliated Partner with the Southern Appalachian Cooperative Ecosystem Studies Unit (CESU)",
+    "organization": "Geological Survey",
+    "category": "caribbean",
+    "match": 55,
+    "deadline": "10/30/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/364016",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-358004",
     "title": "Cybersecurity Innovation for Cyberinfrastructure",
     "organization": "U.S. National Science Foundation",
@@ -1994,36 +1994,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363992",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363856",
-    "title": "F26AS00030 Cooperative Endangered Species Conservation Fund: Recovery Land Acquisition Grant Program",
-    "organization": "Fish and Wildlife Service",
-    "category": "climate",
-    "match": 55,
-    "deadline": "11/20/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363856",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2430,6 +2400,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-342475",
+    "title": "NSF Dynamic Language Infrastructure - NEH Documenting Endangered Languages (DLI-DEL)",
+    "organization": "U.S. National Science Foundation",
+    "category": "digital",
+    "match": 55,
+    "deadline": "02/16/2027",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/342475",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-363766",
     "title": "National Leadership Grants for Libraries (2027)",
     "organization": "Institute of Museum and Library Services",
@@ -2534,36 +2534,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363763",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-362715",
-    "title": "Outdoor Recreation Legacy Partnership Program (ORLP) Recurring Notice 5 Year",
-    "organization": "National Park Service",
-    "category": "caribbean",
-    "match": 55,
-    "deadline": "11/01/2030",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/362715",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2733,7 +2703,7 @@
     "id": "grantsgov-350230",
     "title": "Research in the Formation of Engineers",
     "organization": "U.S. National Science Foundation",
-    "category": "digital",
+    "category": "youth",
     "match": 55,
     "deadline": "Check source",
     "currency": "USD",
@@ -2894,6 +2864,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/339728",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-364008",
+    "title": "The Science, Mathematics and Research for Transformation (SMART) Scholarship for Service Program Cooperative Agreement",
+    "organization": "Dept of the Army -- Materiel Command",
+    "category": "youth",
+    "match": 55,
+    "deadline": "12/03/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/364008",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -3164,6 +3164,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/329436",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-364012",
+    "title": "WATER RESOURCES RESEARCH ACT PROGRAM NATIONAL COMPETITIVE GRANTS FY2026 (104g General)",
+    "organization": "Geological Survey",
+    "category": "caribbean",
+    "match": 55,
+    "deadline": "11/12/2026",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "High",
+    "effort": "High",
+    "readiness": 45,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/364012",
     "badges": [
       "Live Source",
       "Verify Eligibility",
