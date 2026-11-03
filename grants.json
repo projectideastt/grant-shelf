@@ -90,36 +90,6 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-334092",
-    "title": "Culture of Research and University Exchanges Prep program (CRUX) in One Health and Agricultural STEM",
-    "organization": "U.S. Mission to Zimbabwe",
-    "category": "health",
-    "match": 63,
-    "deadline": "Check source",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/334092",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
     "id": "grantsgov-363049",
     "title": "Digital Health Technology and Reciprocal Innovation to Improve Clinical and Public Health Outcomes",
     "organization": "National Institutes of Health",
@@ -644,6 +614,36 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363728",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
+    "id": "grantsgov-364201",
+    "title": "FY27 Guidelines for Brownfield Revolving Loan Fund Grants",
+    "organization": "Environmental Protection Agency",
+    "category": "climate",
+    "match": 59,
+    "deadline": "01/21/2027",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/364201",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -1320,6 +1320,36 @@
     "nextStep": "Open Source"
   },
   {
+    "id": "grantsgov-357713",
+    "title": "Risk and Protective Factors of Family Health and Family Level Interventions (R01 Clinical Trial Optional)",
+    "organization": "National Institutes of Health",
+    "category": "health",
+    "match": 59,
+    "deadline": "03/06/2027",
+    "currency": "USD",
+    "minFunding": 0.0,
+    "maxFunding": 0.0,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
+    "status": "Live Source",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/357713",
+    "badges": [
+      "Live Source",
+      "Verify Eligibility",
+      "Check Official Link"
+    ],
+    "requirements": [
+      "Review official opportunity page",
+      "Confirm Trinidad and Tobago / Caribbean eligibility",
+      "Check applicant type requirements",
+      "Verify deadline, funding amount, and reporting terms"
+    ],
+    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
+    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
+    "nextStep": "Open Source"
+  },
+  {
     "id": "grantsgov-363687",
     "title": "Rural Communities Opioid Response Program - Child and Adolescent Behavioral Health",
     "organization": "Health Resources and Services Administration",
@@ -1394,36 +1424,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/361754",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-363784",
-    "title": "Tribal Colleges Extension Program Special Emphasis",
-    "organization": "National Institute of Food and Agriculture",
-    "category": "culture",
-    "match": 59,
-    "deadline": "11/02/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363784",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2130,20 +2130,20 @@
     "nextStep": "Open Source"
   },
   {
-    "id": "grantsgov-363526",
-    "title": "FY26 DEFENSE ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH (DEPSCoR) &ndash; RESEARCH COLLABORATION (RC)",
-    "organization": "Air Force Office of Scientific Research",
-    "category": "caribbean",
+    "id": "grantsgov-364205",
+    "title": "Fiscal Year 2027 Teams Engaging Affiliated Museums and Informal Institutions (TEAM II) STEM Innovator",
+    "organization": "National Aeronautics and Space Administration",
+    "category": "culture",
     "match": 55,
-    "deadline": "04/05/2027",
+    "deadline": "02/01/2027",
     "currency": "USD",
     "minFunding": 0.0,
     "maxFunding": 0.0,
-    "risk": "High",
-    "effort": "High",
-    "readiness": 45,
+    "risk": "Medium",
+    "effort": "Medium",
+    "readiness": 62,
     "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/363526",
+    "sourceUrl": "https://www.grants.gov/search-results-detail/364205",
     "badges": [
       "Live Source",
       "Verify Eligibility",
@@ -2534,36 +2534,6 @@
     "readiness": 62,
     "status": "Live Source",
     "sourceUrl": "https://www.grants.gov/search-results-detail/363773",
-    "badges": [
-      "Live Source",
-      "Verify Eligibility",
-      "Check Official Link"
-    ],
-    "requirements": [
-      "Review official opportunity page",
-      "Confirm Trinidad and Tobago / Caribbean eligibility",
-      "Check applicant type requirements",
-      "Verify deadline, funding amount, and reporting terms"
-    ],
-    "why": "Pulled from a public grants database. Grant Shelf estimated relevance from title and agency metadata.",
-    "caution": "Live data requires verification. Confirm eligibility, applicant type, deadline, and funding terms on the official source before acting.",
-    "nextStep": "Open Source"
-  },
-  {
-    "id": "grantsgov-361604",
-    "title": "National Science Foundation Fostering Interdisciplinary Networks to Develop Emergent and Responsive Solutions Foundry (NSF FINDERS FOUNDRY)",
-    "organization": "U.S. National Science Foundation",
-    "category": "youth",
-    "match": 55,
-    "deadline": "11/18/2026",
-    "currency": "USD",
-    "minFunding": 0.0,
-    "maxFunding": 0.0,
-    "risk": "Medium",
-    "effort": "Medium",
-    "readiness": 62,
-    "status": "Live Source",
-    "sourceUrl": "https://www.grants.gov/search-results-detail/361604",
     "badges": [
       "Live Source",
       "Verify Eligibility",
